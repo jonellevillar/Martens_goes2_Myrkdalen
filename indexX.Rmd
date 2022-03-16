@@ -3,10 +3,10 @@ title: "Martens Goes To Myrkdalen!"
 subtitle: "Finally together"
 author: "Jonelle"
 institute: "Dept. of Clinical Science II"
-date: "March 31 - April 1, 2022 (updated: `r Sys.Date()`)"
+date: "March 28 - March 29, 2022 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
-    css: default
+    css: [xaringan-themer.css, yellow_dots.css]
     seal: false  
     lib_dir: libs
     nature:
@@ -15,16 +15,26 @@ output:
       countIncrementalSlides: true
       ratio: "16:9"
 ---
+
+
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
-```
-
-
-```{r, include=FALSE}
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+library(fontawesome)
+library(tidyverse)
+library(xaringan)
+library(xaringanExtra)
 library(here)
-library(rmarkdown)
-
 ```
+
 
 ![ski](img/ Myrkdalen.jpeg)
 background-position: 50% 50%
