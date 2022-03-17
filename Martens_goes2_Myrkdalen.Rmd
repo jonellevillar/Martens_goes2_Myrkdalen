@@ -80,70 +80,17 @@ xaringanExtra::use_tile_view()
 ## Update Antipsychotics project
 
 ### Objective: 
-###To identify common and specific DNA methylation marks (CpGs) associated with antipsychotic medication.
+###To identify common and specific DNA methylation marks (CpGs) associated with antipsychotic medication
 
-.enlarge[
-
-- Aripiprazole
-- Olanzapine
-- Quetiapine
-- Risperdal 
-]
+  - Aripiprazole
+  - Olanzapine
+  - Quetiapine
+  - Risperdal 
 
 ---
 ##2
-These drugs are the first line of treatment for psychosis.  
 
 ---
-##3
-
----
-##4
-
----
-##5
-
----
-
-##6
-
----
-
-##7
-
----
-
-##8
-
----
-
-##9
-
----
-
-##10
-
----
-
-##11
-
----
-##12
-
----
-
-##13
-
----
-
-##14
-
----
-
-##15
-
----
-
 background-image: url(slides/Myrkdalen.jpeg)
 background-position: 25% 25%
 background-size: 10px
@@ -159,6 +106,51 @@ class: center, top
 **NORMENT** <br><br><br>]
 
 
+---
+name: colors
+
+## Colors
+
+.left-column[
+Text color
+
+[Link Color](#3)
+
+**Bold Color**
+
+_Italic Color_
+
+`Inline Code`
+]
+
+.right-column[
+Lorem ipsum dolor sit amet, [consectetur adipiscing elit (link)](#3), 
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Erat nam at lectus urna.
+Pellentesque elit ullamcorper **dignissim cras tincidunt (bold)** lobortis feugiat. 
+_Eros donec ac odio tempor_ orci dapibus ultrices. 
+Id porta nibh venenatis cras sed felis eget velit aliquet.
+Aliquam id diam maecenas ultricies mi.
+Enim sit amet 
+`code_color("inline")`
+venenatis urna cursus eget nunc scelerisque viverra.
+]
+
+---
+
+# Big Topic or Inverse Slides `#`
+
+## Slide Headings `##`
+
+### Sub-slide Headings `###`
+
+#### Bold Call-Out `####`
+
+This is a normal paragraph text. Only use header levels 1-4.
+
+##### Possible, but not recommended `#####`
+
+###### Definitely don't use h6 `######`
 
 ---
 
