@@ -96,7 +96,8 @@ These drugs are the first line of treatment for psychosis.
 
 ---
 ##3
-
+Bipolar I disorder is strongly genetically correlated with schizophrenia, driven by psychosis, whereas bipolar II disorder is more strongly correlated with major depressive disorder. 
+Genome-wide association study identifies 30 loci associated with bipolar disorder.
 ---
 ##4
 
