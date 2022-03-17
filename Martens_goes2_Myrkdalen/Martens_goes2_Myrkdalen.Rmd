@@ -1,13 +1,12 @@
 ---
-title: "Presentation Ninja"
-subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
+title: "Martens goes2 Myrkdalen"
+subtitle: "Finally together! <br/><br/> &#x1F3D4; &#x1F6A1; &#x26F7;"  
 author: 
-  - "Yihui Xie"
-  - "Garrick Aden-Buie"
-date: '`r Sys.Date()`'
+  - "Jonelle"
+date: "March 28-29, 2022"
 output:
   xaringan::moon_reader:
-    css: xaringan-themer.css
+    css: [xaringan-themer.css, yellow_dots.css, extra.css]
     nature:
       slideNumberFormat: "%current%"
       highlightStyle: github
@@ -34,11 +33,6 @@ library(xaringanExtra)
 library(here)
 ```
 
-
-
-
-
-
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_duo_accent(
@@ -48,47 +42,68 @@ style_duo_accent(
 )
 ```
 
-## Typography
+```{r xaringanExtra, echo=FALSE, warning=FALSE}
 
-Text can be **bold**, _italic_, ~~strikethrough~~, or `inline code`.
+library(xaringanExtra)
+xaringanExtra::use_logo("slides/UiBlogoMED_gray_v_Eng.png",
+                        width = "250px",
+                        height = "250px",
+                        position = xaringanExtra::css_position(top = "2em", right = "2em"))
+                     
 
-[Link to another slide](#colors).
+xaringanExtra::use_tile_view()
 
-### Lorem Ipsum
+```
 
-Dolor imperdiet nostra sapien scelerisque praesent curae metus facilisis dignissim tortor. 
-Lacinia neque mollis nascetur neque urna velit bibendum. 
-Himenaeos suspendisse leo varius mus risus sagittis aliquet venenatis duis nec.
 
-- Dolor cubilia nostra nunc sodales
+```{css extra.css, echo=FALSE}
 
-- Consectetur aliquet mauris blandit
+.small { 
+  font-size: 0.75em
+}  
 
-- Ipsum dis nec porttitor urna sed
+.bitty { 
+    font-size: 1.25em;
+}
+
+.enlarge { 
+    font-size: 1.5em;
+}
+
+.fade {
+  opacity: 0.66;
+}
+
+```
+
 ---
-## Objective: To identify DNA methylation marks (cpgs) associated with antipsychotic medication. 
+## Update Antipsychotics project
+
+### Objective: 
+###To identify common and specific DNA methylation marks (CpGs) associated with antipsychotic medication
+
   - Aripiprazole
   - Olanzapine
   - Quetiapine
   - Risperdal 
 
-
-
+---
+##2
 
 ---
 background-image: url(slides/Myrkdalen.jpeg)
-background-position: 50% 50%
-background-size: 20px
+background-position: 25% 25%
+background-size: 10px
 
 class: center, top
 
-# Acknowledgements
-
+# Acknowledgements &#x1F618; 
+.pull-right[
 **Supervisor Stéphanie**<br><br>
 **Co-Supervisor Anne-Kristin**<br><br>
 **Colleagues in The Martens Group**<br><br>
 **Dept. of Clinical Science II** <br><br><br>
-**NORMENT** <br><br><br>
+**NORMENT** <br><br><br>]
 
 
 ---
