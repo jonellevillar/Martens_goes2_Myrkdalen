@@ -167,7 +167,16 @@ DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + Smoking (+ eCells)
 ---
 ## Manhatten plots comparing the two models 
 
+.left-column[
 
+
+]
+
+
+.right-column[
+
+
+]
 ---
 ## Results for CpGs at Genome-wide significance
 
