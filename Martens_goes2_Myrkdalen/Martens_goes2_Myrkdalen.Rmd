@@ -1,13 +1,12 @@
 ---
-title: "Presentation Ninja"
-subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
+title: "Martens goes2 Myrkdalen"
+subtitle: "Finally together! <br/><br/> &#x1F3D4; &#x1F6A1; &#x26F7;"  
 author: 
-  - "Yihui Xie"
-  - "Garrick Aden-Buie"
-date: '`r Sys.Date()`'
+  - "Jonelle"
+date: "March 28-29, 2022"
 output:
   xaringan::moon_reader:
-    css: xaringan-themer.css
+    css: [xaringan-themer.css, yellow_dots.css, extra.css]
     nature:
       slideNumberFormat: "%current%"
       highlightStyle: github
@@ -27,6 +26,11 @@ knitr::opts_chunk$set(
   warning = FALSE,
   hiline = TRUE
 )
+library(fontawesome)
+library(tidyverse)
+library(xaringan)
+library(xaringanExtra)
+library(here)
 ```
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
@@ -38,69 +42,124 @@ style_duo_accent(
 )
 ```
 
-## Typography
+```{r xaringanExtra, echo=FALSE, warning=FALSE}
 
-Text can be **bold**, _italic_, ~~strikethrough~~, or `inline code`.
+library(xaringanExtra)
+xaringanExtra::use_logo("slides/UiBlogoMED_gray_v_Eng.png",
+                        width = "250px",
+                        height = "250px",
+                        position = xaringanExtra::css_position(top = "2em", right = "2em"))
+                     
 
-[Link to another slide](#colors).
+xaringanExtra::use_tile_view()
 
-### Lorem Ipsum
+```
 
-Dolor imperdiet nostra sapien scelerisque praesent curae metus facilisis dignissim tortor. 
-Lacinia neque mollis nascetur neque urna velit bibendum. 
-Himenaeos suspendisse leo varius mus risus sagittis aliquet venenatis duis nec.
 
-- Dolor cubilia nostra nunc sodales
+```{css extra.css, echo=FALSE}
 
-- Consectetur aliquet mauris blandit
+.small { 
+  font-size: 0.75em
+}  
 
-- Ipsum dis nec porttitor urna sed
+.bitty { 
+    font-size: 1.25em;
+}
 
----
-name: colors
+.enlarge { 
+    font-size: 1.5em;
+}
 
-## Colors
+.fade {
+  opacity: 0.66;
+}
 
-.left-column[
-Text color
-
-[Link Color](#3)
-
-**Bold Color**
-
-_Italic Color_
-
-`Inline Code`
-]
-
-.right-column[
-Lorem ipsum dolor sit amet, [consectetur adipiscing elit (link)](#3), 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Erat nam at lectus urna.
-Pellentesque elit ullamcorper **dignissim cras tincidunt (bold)** lobortis feugiat. 
-_Eros donec ac odio tempor_ orci dapibus ultrices. 
-Id porta nibh venenatis cras sed felis eget velit aliquet.
-Aliquam id diam maecenas ultricies mi.
-Enim sit amet 
-`code_color("inline")`
-venenatis urna cursus eget nunc scelerisque viverra.
-]
+```
 
 ---
+## Update Antipsychotics project
 
-# Big Topic or Inverse Slides `#`
+### Objective: 
+###To identify common and specific DNA methylation marks (CpGs) associated with antipsychotic medication.
 
-## Slide Headings `##`
+.enlarge[
 
-### Sub-slide Headings `###`
+- Aripiprazole
+- Olanzapine
+- Quetiapine
+- Risperdal 
+]
 
-#### Bold Call-Out `####`
+---
+##2
+These drugs are the first line of treatment for psychosis.  
 
-This is a normal paragraph text. Only use header levels 1-4.
+---
+##3
+Bipolar I disorder is strongly genetically correlated with schizophrenia, driven by psychosis, whereas bipolar II disorder is more strongly correlated with major depressive disorder. 
+Genome-wide association study identifies 30 loci associated with bipolar disorder.
+---
+##4
 
-##### Possible, but not recommended `#####`
+---
+##5
 
-###### Definitely don't use h6 `######`
+---
+
+##6
+
+---
+
+##7
+
+---
+
+##8
+
+---
+
+##9
+
+---
+
+##10
+
+---
+
+##11
+
+---
+##12
+
+---
+
+##13
+
+---
+
+##14
+
+---
+
+##15
+
+---
+
+background-image: url(slides/Myrkdalen.jpeg)
+background-position: 25% 25%
+background-size: 10px
+
+class: center, top
+
+# Acknowledgements &#x1F618; 
+.pull-right[
+**Supervisor Stéphanie**<br><br>
+**Co-Supervisor Anne-Kristin**<br><br>
+**Colleagues in The Martens Group**<br><br>
+**Dept. of Clinical Science II** <br><br><br>
+**NORMENT** <br><br><br>]
+
+
 
 ---
 
