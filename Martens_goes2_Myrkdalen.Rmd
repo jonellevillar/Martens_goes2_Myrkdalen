@@ -39,12 +39,9 @@ library(xaringanthemer)
 dark_yellow <- "#EFBE43"
 light_yellow <- "#FDF7E9"
 gray <- "#333333"
-
-
-light_blue <- "#1381B0"
-light_yellow <- "#FDF7E9"
-gray <- "#333333"
 blue <- "#4466B0"
+
+black <- "#1381B0"
 orange <- "#FF961C"
 white <- "#FFFFFF"
 
@@ -56,7 +53,7 @@ style_duo(
   text_color = gray,
   code_inline_color = colorspace::lighten(gray),
   text_bold_color = colorspace::lighten(gray),
-  link_color = light_blue,
+  link_color = blue,
   title_slide_text_color = blue,
   
   # fonts
