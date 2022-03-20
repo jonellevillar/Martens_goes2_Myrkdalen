@@ -110,6 +110,62 @@ AP drugs identified in the peripheral blood of individuals taking these drugs, i
       - Candidate genes
       - Genome-wide
 
+---
+## TOP Cohort
+
+Challenges to teasing out medication effects on DNAm.
+   - Polypharmacy
+   - Small sample size for monotherapy
+   - Missing values 
+   - Study design
+   
+---
+## Study design 
+
+## Considerations:
+
+   - Evaluate serum values (van Dongen)
+   - Evaluate AP/serum values as one phenotype and do not correct for              cell-type proportions (Greally & Lappalainen)
+
+add photos of article titles
+---
+## Cell-type populations are influenced by:
+
+   - AP and polypharmacy
+   - Gender, age, smoking, diet
+   - Diagnosis & health status
+   - Time of day & season
+
+---
+## Example of model chosen for Quetiapine
+
+DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + Smoking (+ eCells)
+
+---
+## Manhatten plots comparing the two models 
+
+
+---
+## Results for CpGs at Genome-wide significance
+
+   - GLT8D1
+   - SPCS
+   - LOC
+
+Limitation - I have some samples with polypharmacy that I am currently trying to tease out. 
+---
+## GLT8D1 in psychiatry 
+
+
+---
+## DMR associated genes
+
+---
+
+## Quetiapine with larger sample size
+
+---
+
 
 ## Update Antipsychotics project
 
@@ -122,7 +178,6 @@ AP drugs identified in the peripheral blood of individuals taking these drugs, i
   - Risperdal 
 
 ---
-##2
 
 ---
 background-image: url(slides/Myrkdalen.jpeg)
