@@ -77,6 +77,40 @@ xaringanExtra::use_tile_view()
 ```
 
 ---
+## Background 
+   - AP drugs
+   - Psychosis
+
+---
+## AP are the first line of treatment 
+   - Treatment effects
+   - Side effects
+
+---
+## Factors that influence the efficieny of AP
+   - Age, gender, smoking 
+   - Genotype - i.e. metabolic enzymes
+   - Polypharmacy
+   - Time of day of administration
+   
+---
+## The factors that influence the efficiency of AP also influence DNA methylation levels seen in peripheral blood.
+
+Hypothesis: We hypothisize that differential DNA methylation associated with 
+AP drugs identified in the peripheral blood of individuals taking these drugs, independent of diagnosis 
+
+## need a caroon here 
+
+---
+## What does the literature show?
+
+   - GWAS - multiple neurotransmitter systems/genes
+   
+   - EWAS:
+      - Candidate genes
+      - Genome-wide
+
+
 ## Update Antipsychotics project
 
 ### Objective: 
