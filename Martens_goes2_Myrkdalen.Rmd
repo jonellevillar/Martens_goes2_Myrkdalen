@@ -1,6 +1,6 @@
 ---
-title: "Martens goes 2 Myrkdalen"
-subtitle: "Finally together! <br/><br/> &#x1F3D4; &#x1F6A1; &#x26F7;"  
+title: "Teasing out antipsychotic medication effects on DNA methylation"
+subtitle: "Martens goes 2 Myrkdalen! <br/> &#x1F3D4; &#x1F6A1; &#x26F7;"  
 author: 
   - "Jonelle"
 date: "March 28-29, 2022"
