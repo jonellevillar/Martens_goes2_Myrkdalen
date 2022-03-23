@@ -153,7 +153,8 @@ Challenges to teasing out medication effects on DNAm. <br> <br />
 
 add photos of article titles
 ---
-## Cell-type populations are influenced by:
+class:top left
+### Cell-type populations are influenced by:
 
    - AP and polypharmacy <br> <br />
    - Gender, age, smoking, diet <br> <br />
@@ -161,28 +162,38 @@ add photos of article titles
    - Time of day & season <br> <br />
 
 ---
-## Example of model chosen for Quetiapine
+class:top left
 
-DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + Smoking (+ eCells)
+### Models selected for Quetiapine n=92 <br> <br> <br/>
+
+.enlarge[Mod1: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore] <br> <br />
+
+.enlarge[Mod2: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + <br> <br /> Mono + Neu + NK + CD4T + CD8T + Bcells]
 
 ---
-## Manhatten plots comparing the two models 
+class: top left
+### Manhatten plots comparing the two models 
 
-.left-column[
 
-![]url(slides/Que_n92_Mod1_manhatt.png)
+.pull-left[Model 1: Adjustment for eCells 
+
+![](slides/Que_n92_Mod1_manhatt.png)
 
 ]
 
+.pull-right[Model 2: No adjustment for eCells
 
-.right-column[
-
-![]url(slides/Que_n92_Mod2_manhatt.png)
+![](slides/Que_n92_Mod2_manhatt.png)
 
 ]
 
 ---
-## Results for CpGs at Genome-wide significance
+.pull-left[
+.footnote[Eugène Gabritschevsky, _Untitled_,1949]
+]
+---
+class:top left
+### Results for CpGs at Genome-wide significance
 
    - GLT8D1: Glycosyltransferase 8 Domain Containing 1 <br> <br />
    - SPCS1: signal peptidase complex subunit 1 <br> <br />
@@ -191,23 +202,26 @@ DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + Smoking (+ eCells)
 Limitation - Some samples with polypharmacy that need to be teased out. 
 
 ---
-## GLT8D1 in psychiatry 
+class:top left
+### GLT8D1 in psychiatry 
 
-
----
-## DMR associated genes
-
----
-
-## Quetiapine with larger sample size
+.pull.left[.footnote[McCutcheon, _et al.,_ JAMA Psychiatry, 2020]]
+.pull-right[.footnote[Elanjithara, _et al.,_ 2011]]
 
 ---
+class:top left
+### DMR associated genes
 
+---
+class:top left
+### Quetiapine with larger sample size
 
-## Update Antipsychotics project
+---
+class:top left
 
-### Objective: 
-###To identify common and specific DNA methylation marks (CpGs) associated with antipsychotic medication
+### Future prospects
+
+- Continue work with a focus on
 
   - Aripiprazole
   - Olanzapine
@@ -217,11 +231,11 @@ Limitation - Some samples with polypharmacy that need to be teased out.
 ---
 
 ---
+class:top left
 background-image: url(slides/Myrkdalen.jpeg)
 background-position: 25% 25%
 background-size: 10px
 
-class: center, top
 
 # Acknowledgements <br>
 .pull-right[
