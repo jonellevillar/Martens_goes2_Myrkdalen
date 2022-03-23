@@ -179,14 +179,15 @@ DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + Smoking (+ eCells)
 ![]url(slides/Que_n92_Mod2_manhatt.png)
 
 ]
+
 ---
 ## Results for CpGs at Genome-wide significance
 
-   - GLT8D1
-   - SPCS
-   - LOC
+   - GLT8D1: Glycosyltransferase 8 Domain Containing 1 <br/>
+   - SPCS1: signal peptidase complex subunit 1 <br/>
+   - LOC100507065:long noncoding RNA <br/>
 
-Limitation - I have some samples with polypharmacy that I am currently trying to tease out. 
+Limitation - Some samples with polypharmacy that need to be teased out. 
 ---
 ## GLT8D1 in psychiatry 
 
