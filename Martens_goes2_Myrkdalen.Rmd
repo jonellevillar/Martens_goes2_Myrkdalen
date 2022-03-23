@@ -162,6 +162,11 @@ class:top left
    - Time of day & season <br> <br />
 
 ---
+
+
+
+
+---
 class:top left
 
 ### Models selected for Quetiapine n=92 <br> <br> <br/>
@@ -205,16 +210,42 @@ Limitation - Some samples with polypharmacy that need to be teased out.
 class:top left
 ### GLT8D1 in psychiatry 
 
-.pull.left[.footnote[McCutcheon, _et al.,_ JAMA Psychiatry, 2020]]
-.pull-right[.footnote[Elanjithara, _et al.,_ 2011]]
+.pull.left[.footnote[Williams, _et al.,_ Mol. Psychiatry, 2020]]
+.pull-right[.footnote[Mealer, _et al.,_ Mol. Psychiatry 2020]]
 
 ---
 class:top left
-### DMR associated genes
+### GLT8D1 <br> -  transcripts associated with SCZ and BPD
+
+
+
+.pull.left[.footnote[Ripke, _et al.,_ Nature Genetics, 2013]]
+.pull-right[.footnote[Stahl EA, _et al.,_ Nature Genetics, 2019]]
 
 ---
 class:top left
-### Quetiapine with larger sample size
+### GLT8D1 <br> - transcripts associated with SCZ 
+
+
+
+.pull.left[.footnote[van der Meer, _et al.,_ Nature Communications, 2020]]
+
+
+
+---
+class:top left
+### Differentially Methylated Regions (DMRs) <br/> 
+
+.enlarge[- Statistically significant methylation status]
+
+![](slides/DMRs_Que_n84.png) <br> <br />
+
+.enlarge[For lipid lovers! APOB: Apolipoprotein B - ligand for LDL receptor]
+
+---
+class:top left
+### Quetiapine with poypharmacy to gain larger sample size
+### Surrogate variable analysis
 
 ---
 class:top left
@@ -228,7 +259,7 @@ class:top left
   - Quetiapine
   - Risperdal 
 
----
+
 
 ---
 class:top left
