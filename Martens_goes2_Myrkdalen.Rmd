@@ -169,12 +169,14 @@ DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + Smoking (+ eCells)
 
 .left-column[
 
+![]url(slides/Que_n92_Mod1_manhatt.png)
 
 ]
 
 
 .right-column[
 
+![]url(slides/Que_n92_Mod2_manhatt.png)
 
 ]
 ---
