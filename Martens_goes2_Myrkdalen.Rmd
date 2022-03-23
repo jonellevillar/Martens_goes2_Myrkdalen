@@ -111,10 +111,10 @@ xaringanExtra::use_tile_view()
 
 ---
 ## Factors that influence the efficieny of AP
-   - Age, gender, smoking 
-   - Genotype - i.e. metabolic enzymes
-   - Polypharmacy
-   - Time of day of administration
+   - Age, gender, smoking <br> <br />
+   - Genotype - i.e. metabolic enzymes <br> <br />
+   - Polypharmacy <br> <br />
+   - Time of day of administration <br> <br />
    
 ---
 ## The factors that influence the efficiency of AP also influence DNA methylation levels seen in peripheral blood.
@@ -127,37 +127,38 @@ AP drugs identified in the peripheral blood of individuals taking these drugs, i
 ---
 ## What does the literature show?
 
-   - GWAS - multiple neurotransmitter systems/genes
+   - GWAS: <br> <br />
+      - multiple neurotransmitter systems/genes
    
-   - EWAS:
-      - Candidate genes
-      - Genome-wide
+   - EWAS: <br> <br />
+      - Candidate genes <br> <br />
+      - Genome-wide <br> <br />
 
 ---
 ## TOP Cohort
 
-Challenges to teasing out medication effects on DNAm.
-   - Polypharmacy
-   - Small sample size for monotherapy
-   - Missing values 
-   - Study design
+Challenges to teasing out medication effects on DNAm. <br> <br />
+   - Polypharmacy <br> <br />
+   - Small sample size for monotherapy <br> <br />
+   - Missing values <br> <br />
+   - Study design <br> <br />
    
 ---
 ## Study design 
 
 ## Considerations:
 
-   - Evaluate serum values (van Dongen)
+   - Evaluate serum values (van Dongen) <br> <br />
    - Evaluate AP/serum values as one phenotype and do not correct for              cell-type proportions (Greally & Lappalainen)
 
 add photos of article titles
 ---
 ## Cell-type populations are influenced by:
 
-   - AP and polypharmacy
-   - Gender, age, smoking, diet
-   - Diagnosis & health status
-   - Time of day & season
+   - AP and polypharmacy <br> <br />
+   - Gender, age, smoking, diet <br> <br />
+   - Diagnosis & health status <br> <br />
+   - Time of day & season <br> <br />
 
 ---
 ## Example of model chosen for Quetiapine
@@ -183,11 +184,12 @@ DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + Smoking (+ eCells)
 ---
 ## Results for CpGs at Genome-wide significance
 
-   - GLT8D1: Glycosyltransferase 8 Domain Containing 1 <br/>
-   - SPCS1: signal peptidase complex subunit 1 <br/>
-   - LOC100507065:long noncoding RNA <br/>
+   - GLT8D1: Glycosyltransferase 8 Domain Containing 1 <br> <br />
+   - SPCS1: signal peptidase complex subunit 1 <br> <br />
+   - LOC100507065:long noncoding RNA <br> <br />
 
 Limitation - Some samples with polypharmacy that need to be teased out. 
+
 ---
 ## GLT8D1 in psychiatry 
 
@@ -221,13 +223,16 @@ background-size: 10px
 
 class: center, top
 
-# Acknowledgements &#x1F618; 
+# Acknowledgements <br>
 .pull-right[
 **Supervisor Stéphanie**<br><br>
 **Co-Supervisor Anne-Kristin**<br><br>
 **Colleagues in The Martens Group**<br><br>
 **Dept. of Clinical Science II** <br><br><br>
-**NORMENT** <br><br><br>]
+**NORMENT** <br><br>
+## &#x1F618; 
+
+]
 
 
 ---
