@@ -12,3 +12,26 @@ Involes the Complex and highly regulated activity of enzymes and chaperones that
 THese enzymes geneate a diverse set of glycans ranging from single monosaccharides to oligosaccharides and polysaccarides covalently attached to proteins and lipids to regulated their structure, function, and localization 
 
 Glycosyltransferase gene families usually contain one or a few isoenzymes capable of catalyzing the the same step of glycan synthesis. 
+
+SLC39A8 is not a glycosylation enzyme, but it plays a critical role in the pathway by regulating concentrations of Mn, which is an irreplaceable co-factor for many glycosulation enzymes. (see Change, 2011)
+
+The SCZ-associated variant in SLC39A8 results in a missense mutation in the coding region of the proten (rs13107325 (Cto T), A391T) They recently confirmed that human carriers of the SCZ-risk (T) allele have decreased serum Mn and reduced complexity of plasma protein N-glycans (70) consistent with prior reports of reduced activity of Mn-dependent glycosylation enzymes in SLC39A8 mutation carriers (68, 71).
+
+Genes associated with SCZ that encode proteins that are critically regulated by glycosylatio include glutamate receptors, boltage-gated calcium channels, the dopamine D2-receptor, and complemet-associated proteins.  All have enriched expression in the brain.  Glycosylation of these proteins has been shown to impact their function and cellular localization - thur modifying scz biology.  SCZ-associated variants may impact the glycolylation of these key proteins or represent a point of convergens in the pathoplyisology of disease. 
+
+GLUTAMATE receptors,
+GluA1(GRIA1) and GluA2(GRIN2A) each possesses six putative N-glycosylation sites  - functional importance of this receptor complex may be necessary for localizaiton of receptors into synapses. 
+
+Dopamine receptors
+
+N-glycans on the N-terminus repress internalization of the receptor into the cytosol.
+Also involved in desensitization and cell-surface expression of the dopamine D3 receptor.
+
+Voltage-gated calcium channels
+
+N-glycosylation is critical to the function and localizaiton of voltabe-gate calcium channels  CACNA1C, CACNA1D, CACNA1L
+
+
+
+
+Multiple neurotransmitter signalling genes

@@ -232,6 +232,8 @@ Limitation - Some samples with polypharmacy that need to be teased out.
 class:top left
 ### GLT8D1 in psychiatry 
 
+![](slides/Mealer_Fig2.png)
+
 .pull.left[.footnote[Williams, _et al.,_ Mol. Psychiatry, 2020]]
 .pull-right[.footnote[Mealer, _et al.,_ Mol. Psychiatry 2020]]
 
