@@ -128,14 +128,25 @@ AP drugs identified in the peripheral blood of individuals taking these drugs, i
 ## What does the literature show?
 
 .enlarge[
-   - GWAS: <br> <br />
-      - multiple neurotransmitter systems/genes
-      - ***SLC39A8*** : Mn transporter (SCZ Working Group, 2014)
+   **GWAS**: <br> <br />
+   Multiple neurotransmitter systems/genes [1] <br> <br />
+      ***GRIA1***, ***GRIN2A*** : glutamate <br> <br />
+      ***D2R*** : dopamine D2 receptor <br> <br />
+      ***SLC39A8*** : Mn transporter <br> <br />
    
-   - EWAS: <br> <br />
+]
+
+.footnote[[1]SCZ Working Group of PGS, 2014]
+
+---
+## What does the literature show?
+.enlarge[
+
+**EWAS**: <br> <br />
       - Candidate genes <br> <br />
       - Genome-wide <br> <br />
-]
+
+.footnote[[1]xxx]
 ---
 ## TOP Cohort
 
