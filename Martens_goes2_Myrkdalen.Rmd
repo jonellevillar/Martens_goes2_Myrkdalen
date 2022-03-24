@@ -229,10 +229,17 @@ class:top left
 Limitation - Some samples with polypharmacy that need to be teased out. 
 
 ---
-class:top left
+background-image: url(slides/Mealer_glyco.jpg)
+background-position: 50% 75%
+background-size: 400px
+
+class: left top 
+
 ### GLT8D1 in psychiatry 
 
-![](slides/Mealer_Fig2.png)
+
+
+---
 
 .pull.left[.footnote[Williams, _et al.,_ Mol. Psychiatry, 2020]]
 .pull-right[.footnote[Mealer, _et al.,_ Mol. Psychiatry 2020]]
