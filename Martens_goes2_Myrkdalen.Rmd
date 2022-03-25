@@ -114,33 +114,25 @@ background-size: 750px
 ---
 
 ## Background 
-   - AP drugs
-   - Psychosis
-   
+  - Psychosis
+     - Hallucinations and delusions 
+       SCZ, BPD, MDD 
+     
 
 ---
-## AP are the first line of treatment 
-   - Treatment effects
-   - Side effects
-
+## Background 
+  - Antipsychotic medication 
+     - First line of treatment for psychosis
+     - Mechanism: alter multiple neurotransmitter systems & genes
+        - GABA: inhibitory
+        - Glutamate:excitatory
+        - Dopamine 
+        - Serotonin
+        
 ---
-## Factors that influence the efficieny of AP
-   - Age, gender, smoking <br> <br />
-   - Genotype - i.e. metabolic enzymes <br> <br />
-   - Polypharmacy <br> <br />
-   - Time of day of administration <br> <br />
-   
----
-## The factors that influence the efficiency of AP also influence DNA methylation levels seen in peripheral blood.
 
-Hypothesis: We hypothisize that differential DNA methylation associated with 
-AP drugs identified in the peripheral blood of individuals taking these drugs, independent of diagnosis 
-
-## need a caroon here 
-
----
 class: top left 
-###**GWAS findings relevant for AP project** [1] <br> <br />
+###**GWAS findings for Schizophrenia** [1] <br> <br />
 
 .footnote[[1] SCZ Working Group of PGC, 2014]
 .col-left[.enlarge[
@@ -153,10 +145,11 @@ class: top left
 ]
 ]
 
-
-
 ---
+
 class: top left 
+
+##WHAT EWAS FIndings?
 ###**EWAS findings relevant for AP project** [1] <br> <br />
 
 .footnote[[1] SCZ Working Group of PGC, 2014]
@@ -171,6 +164,34 @@ class: top left
 .footnote[[1]xxx]
 
 ---
+
+## Hypothesis: 
+
+.enlarge[We hypothesize that differential DNA methylation is associated with 
+AP medication, independent of the diagnosis of SCZ, BPD or MDD. 
+
+1. Common effects for antipsychotic polytherapy (n=729) ***check this***
+ 
+
+2. Specific effects for antipsychotic monotherapy
+ - Aripiprazole (n=)
+ - Olanzapine   (n=)
+ - Quetiapine  (n=)  
+ - Risperdal   (n=)
+
+]
+---
+
+## Factors that influence the efficacy of AP
+   - Age, gender, smoking <br> <br />
+   - Genotype - i.e. metabolic enzymes <br> <br />
+   - Polypharmacy <br> <br />
+   - Time of day of administration <br> <br />
+   - Dose & Compliance - as monitored by serum values
+
+## DNA methylation levels are impacted by the same factors! &#x1F62E;
+---
+
 ## TOP Cohort
 
 .enlarge[Challenges when teasing out medication effects on DNAm. <br> <br />
@@ -192,15 +213,7 @@ Approaches to consider: <br>
 add photos of article titles
 
 ---
-class:top left
-### Cell-type populations are influenced by:
 
-   - AP and polypharmacy <br> <br />
-   - Gender, age, smoking, diet <br> <br />
-   - Diagnosis & health status <br> <br />
-   - Time of day & season <br> <br />
-
----
 
 class:top left
 
@@ -301,21 +314,10 @@ class:top left
 
 ---
 class:top left
-### Future prospects
+### Future tasks
 
-### Quetiapine with poypharmacy to gain larger sample size
-### Surrogate variable analysis
-
----
-class:top left
-
-## Continue work with a focus on
-
-  - Aripiprazole (n=)
-  - Olanzapine   (n=)
-  - Quetiapine  (n=)  
-  - Risperdal   (n=)
-
+### AP monotherapy but adjust for poypharmacy for larger sample size & power
+### Surrogate variable analysis (SVA) to identify unknown variation
 
 
 ---
