@@ -211,27 +211,7 @@ class:top left
 .enlarge[Mod2: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + <br> <br /> Mono + Neu + NK + CD4T + CD8T + Bcells]
 
 ---
-class: top left
-### Manhatten plots comparing the two models 
 
-
-.pull-left[Model 1: Adjustment for eCells 
-
-![](slides/Que_n92_Mod1_manhatt.png)
-
-]
-
-.pull-right[Model 2: No adjustment for eCells
-
-![](slides/Que_n92_Mod2_manhatt.png)
-
-]
-
----
-.pull-left[
-.footnote[Eugène Gabritschevsky, _Untitled_,1949]
-]
----
 class:top left
 ### Results for CpGs at Genome-wide significance
 
@@ -240,6 +220,30 @@ class:top left
    - LOC100507065:long noncoding RNA <br> <br />
 
 Limitation - Some samples with polypharmacy that need to be teased out. 
+
+---
+class: top left
+### Manhatten plots comparing the two models 
+
+
+.pull-left[Model 1: Adjustment for eCells: p-val=
+
+![](slides/Que_n92_Mod1_manhatt.png)
+
+]
+
+.pull-right[Model 2: No adjustment for eCells: p-val=
+
+![](slides/Que_n92_Mod2_manhatt.png)
+
+]
+
+
+---
+### Glycosylation and glycan biosynthesis
+
+Glycosyltansferases assemble monosaccharides into linear and branched sugar chain. 
+The acceptor can be other mono- or oligosaccharides, lipids, or protein residues.
 
 ---
 background-image: url(slides/Mealer_glyco.jpg)
