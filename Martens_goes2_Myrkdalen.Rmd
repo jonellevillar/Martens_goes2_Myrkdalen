@@ -100,9 +100,23 @@ xaringanExtra::use_tile_view()
 ```
 
 ---
+
+background-image: url(slides/Smigielski.png)
+background-position:cover
+background-size: 750px
+
+.footnote[Smigielski _et al_, Molecular Psychiatry, 2020]
+
+
+## **Epigenetics**
+
+
+---
+
 ## Background 
    - AP drugs
    - Psychosis
+   
 
 ---
 ## AP are the first line of treatment 
@@ -159,21 +173,24 @@ class: top left
 ---
 ## TOP Cohort
 
-Considerations when teasing out medication effects on DNAm. <br> <br />
+.enlarge[Challenges when teasing out medication effects on DNAm. <br> <br />
    - Polypharmacy <br> <br />
-   - Small sample size for monotherapy <br> <br />
-   - Missing values <br> <br />
-   - Study design <br> <br />
+   - Small sample size <br> <br />
+   - Missing values &#x1F641; <br> <br />
+   - Model design ]
    
 ---
-## Study design 
+## Study/model design 
 
-.enlarge[New approaches:
+.enlarge[
+Approaches to consider: <br>
 
    - Evaluate serum values (van Dongen) <br> <br />
-   - Evaluate AP/serum values as one phenotype and do not correct for              cell-type proportions (Greally & Lappalainen)
+   - Evaluate samples as one phenotype without correction for eCells (Greally & Lappalainen)
+   ]
 
 add photos of article titles
+
 ---
 class:top left
 ### Cell-type populations are influenced by:
@@ -185,10 +202,6 @@ class:top left
 
 ---
 
-
-
-
----
 class:top left
 
 ### Models selected for Quetiapine n=92 <br> <br> <br/>
@@ -230,12 +243,21 @@ Limitation - Some samples with polypharmacy that need to be teased out.
 
 ---
 background-image: url(slides/Mealer_glyco.jpg)
-background-position: 50% 75%
-background-size: 400px
+background-position: 20% 75%
+background-size: 350px
 
 class: left top 
 
 ### GLT8D1 in psychiatry 
+
+.pull-left[
+*
+*
+*
+*
+
+
+]
 
 
 
@@ -275,20 +297,20 @@ class:top left
 
 ---
 class:top left
+### Future prospects
+
 ### Quetiapine with poypharmacy to gain larger sample size
 ### Surrogate variable analysis
 
 ---
 class:top left
 
-### Future prospects
+## Continue work with a focus on
 
-- Continue work with a focus on
-
-  - Aripiprazole
-  - Olanzapine
-  - Quetiapine
-  - Risperdal 
+  - Aripiprazole (n=)
+  - Olanzapine   (n=)
+  - Quetiapine  (n=)  
+  - Risperdal   (n=)
 
 
 
@@ -313,184 +335,6 @@ background-size: 10px
 
 ---
 
-
-
----
-name: colors
-
-## Colors
-
-.left-column[
-Text color
-
-[Link Color](#3)
-
-**Bold Color**
-
-_Italic Color_
-
-`Inline Code`
-]
-
-.right-column[
-Lorem ipsum dolor sit amet, [consectetur adipiscing elit (link)](#3), 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Erat nam at lectus urna.
-Pellentesque elit ullamcorper **dignissim cras tincidunt (bold)** lobortis feugiat. 
-_Eros donec ac odio tempor_ orci dapibus ultrices. 
-Id porta nibh venenatis cras sed felis eget velit aliquet.
-Aliquam id diam maecenas ultricies mi.
-Enim sit amet 
-`code_color("inline")`
-venenatis urna cursus eget nunc scelerisque viverra.
-]
-
----
-
-# Big Topic or Inverse Slides `#`
-
-## Slide Headings `##`
-
-### Sub-slide Headings `###`
-
-#### Bold Call-Out `####`
-
-This is a normal paragraph text. Only use header levels 1-4.
-
-##### Possible, but not recommended `#####`
-
-###### Definitely don't use h6 `######`
-
----
-
-# Left-Column Headings
-
-.left-column[
-## First
-
-## Second
-
-## Third
-]
-
-.right-column[
-Dolor quis aptent mus a dictum ultricies egestas.
-
-Amet egestas neque tempor fermentum proin massa!
-
-Dolor elementum fermentum pharetra lectus arcu pulvinar.
-]
-
----
-class: inverse center middle
-
-# Topic Changing Interstitial
-
-
-
----
-layout: true
-
-## Blocks
-
----
-
-
-### Code Blocks
-
-#### R Code
-
-```{r eval=FALSE}
-ggplot(gapminder) +
-  aes(x = gdpPercap, y = lifeExp, size = pop, color = country) +
-  geom_point() +
-  facet_wrap(~year)
-```
-
-#### JavaScript
-
-```js
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
----
-
-### More R Code
-
-```{r eval=FALSE}
-dplyr::starwars %>% dplyr::slice_sample(n = 4)
-```
-
----
-
-```{r message=TRUE, eval=requireNamespace("cli", quietly = TRUE)}
-cli::cli_alert_success("It worked!")
-```
-
---
-
-```{r message=TRUE}
-message("Just a friendly message")
-```
-
---
-
-```{r warning=TRUE}
-warning("This could be bad...")
-```
-
---
-
-```{r error=TRUE}
-stop("I hope you're sitting down for this")
-```
-
-
----
-layout: true
-
-## Tables
-
----
-exclude: `r if (requireNamespace("tibble", quietly=TRUE)) "false" else "true"`
-
-```{r eval=requireNamespace("tibble", quietly=TRUE)}
-tibble::as_tibble(mtcars)
-```
-
----
-
-```{r}
-knitr::kable(head(mtcars), format = 'html')
-```
-
----
-exclude: `r if (requireNamespace("DT", quietly=TRUE)) "false" else "true"`
-
-```{r eval=requireNamespace("DT", quietly=TRUE)}
-DT::datatable(head(mtcars), fillContainer = FALSE, options = list(pageLength = 4))
-```
-
-
----
-
-
-
-.pull-right[
-
-#### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-]
-
----
-
 ### And a nested list:
 
 - level 1 item
@@ -509,29 +353,6 @@ DT::datatable(head(mtcars), fillContainer = FALSE, options = list(pageLength = 4
 
 ---
 
-### Nesting an ol in ul in an ol
-
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-  1. level 4 item (ol)
-  1. level 4 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-
----
-
----
-
-
 layout: false
 
 ## Square image
@@ -543,17 +364,4 @@ layout: false
 ---
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
----

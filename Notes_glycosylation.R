@@ -31,7 +31,9 @@ Voltage-gated calcium channels
 
 N-glycosylation is critical to the function and localizaiton of voltabe-gate calcium channels  CACNA1C, CACNA1D, CACNA1L
 
+The glutamate, dopamine and calcium genes listed have varying numbers of glycosylation sites - predominantly N-terminal sites whci affect cell-surface experession, receptor localizatio (current density in the case of calcium) protein trafficking in glutamated
 
+THese five genes are directly involved in glycan synthesis and is based on the original 108 reported loci from 2014. 
 
 
 Multiple neurotransmitter signalling genes
