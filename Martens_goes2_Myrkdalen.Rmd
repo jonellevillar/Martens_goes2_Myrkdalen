@@ -334,9 +334,12 @@ class:top left
 class:top left
 ### Future tasks
 
-### AP monotherapy but adjust for poypharmacy for larger sample size & power
-### Surrogate variable analysis (SVA) to identify unknown variation
-
+.enlarge[
+* For larger sample size & power: <br> continue analyses of AP monotherapy and adjust for polypharmacy <br><br> 
+* Analyze samples solely on AP (n=) versus medication-free samples (n = 131) <br><br>
+* Surrogate variable analysis (SVA) to identify unknown variation <br><br>
+* Ask Anja for gene expression data for GLT8D1 from TOP samples &#x1F600;
+]
 
 ---
 class:top left
