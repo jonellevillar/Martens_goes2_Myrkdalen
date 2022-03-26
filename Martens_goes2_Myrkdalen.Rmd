@@ -176,7 +176,6 @@ background-size: 800px
 .footnote[Hiemke _et al._, Pharmacopsychiatry 2018; Castberg _et al._, Acta Psychiatr Scand, 2017]
 
 
-
 ---
 
 ## Hypothesize: 
