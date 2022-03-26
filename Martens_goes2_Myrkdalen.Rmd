@@ -138,11 +138,11 @@ background-size: 750px
 class: top left 
 ###**GWAS findings for SCZ**  <br> <br />
 
-.footnote[SCZ Working Group of PGC, Nature, 2014; bioRxiv, 2022]
+.footnote[SCZ Working Group of PGC, Nature, 2014; medRxiv, 2022]
 .col-left[.enlarge[
  
 *      ***GRIA1***, ***GRIN2A*** : Glutamate-gated ion channels <br> <br />
-*     ***xxx*** : GABA <br> <br />
+*     ***GABBR2*** : GABA <br> <br />
 *      ***D2R*** : Dopamine D2 receptor<br> <br />
 *      ***CACNA1C*** : Calcium voltage-gated channel <br> <br />
 *       ***SLC39A8*** : Manganese (Mn) transporter
