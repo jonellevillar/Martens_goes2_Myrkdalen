@@ -132,9 +132,9 @@ background-size: 750px
 ---
 
 class: top left 
-###**GWAS findings for Schizophrenia** [1] <br> <br />
+###**GWAS findings for SCZ**  <br> <br />
 
-.footnote[[1] SCZ Working Group of PGC, 2014]
+.footnote[SCZ Working Group of PGC, Nature, 2014]
 .col-left[.enlarge[
  
 *      ***GRIA1***, ***GRIN2A*** : glutamate <br> <br />
@@ -152,7 +152,7 @@ class: top left
 ##WHAT EWAS FIndings?
 ###**EWAS findings relevant for AP project** [1] <br> <br />
 
-.footnote[[1] SCZ Working Group of PGC, 2014]
+.footnote[[1] SCZ Working Group of PGC, Nature, 2014]
 .col-left[.enlarge[
 
 *     Candidate genes <br> <br />
@@ -161,7 +161,7 @@ class: top left
   ]
   ]
 
-.footnote[[1]xxx]
+
 
 ---
 ## Factors influencing AP efficacy 
@@ -244,13 +244,13 @@ class: top left
 ### Manhatten plots comparing the two models 
 
 
-.pull-left[Model 1: Adjustment for eCells: p-val=
+.pull-left[Model 1: Pval = 2.92e-08, adj BH Pval = 0.017
 
 ![](slides/Que_n92_Mod1_manhatt.png)
 
 ]
 
-.pull-right[Model 2: No adjustment for eCells: p-val=
+.pull-right[Model 2: Pval = 2.46e-08, adj BH Pval = 0.018
 
 ![](slides/Que_n92_Mod2_manhatt.png)
 
