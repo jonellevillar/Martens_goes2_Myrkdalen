@@ -230,12 +230,13 @@ class:top left
 ---
 
 class:top left
-### Results for CpGs at Genome-wide significance
+### Results <br> <br> Genes associated with CpGs at genome-wide significance
 
+.enlarge[
    - GLT8D1: Glycosyltransferase 8 Domain Containing 1 <br> <br />
    - SPCS1: signal peptidase complex subunit 1 <br> <br />
    - LOC100507065:long noncoding RNA <br> <br />
-
+]
  
 
 ---
@@ -257,14 +258,17 @@ class: top left
 
 
 ---
-### Glycosylation 
+### Glycosylation <br> <br />
+
 
 .enlarge[
 * critical in the development and function of the nervous system <br> <br />
+* cell-cell recognition, axon pathfinding <br> <br />
 * synaptogenesis <br> <br />
 * neurotransmission <br> <br />
 
-Glycosyltansferases: attach carbohydrates to proteins and lipids
+
+Role of glycosyltansferases: to attach carbohydrates to proteins and lipids
 
 ]
 
@@ -275,14 +279,15 @@ background-size: 350px
 
 class: left top 
 
-### GLT8D1 in psychiatry 
+### Dysregulated glycosylation in SCZ 
 
-.pull-left[
-*
-*
+.pull-right[
+* glutamate transporters
+* GABA receptor
 *
 *
 
+Dysregulation of glycan synthesis pathways show differential expression in brains of individuals with SCZ - may be due to genetic predisposition, environmental perturbations, or medication use
 
 ]
 
@@ -369,15 +374,7 @@ background-size: 10px
 
 ---
 
-layout: false
 
-## Square image
-
-<center><img src="https://octodex.github.com/images/labtocat.png" alt="GithHub Octocat" height="400px" /></center>
-
-.footnote[GitHub Octocat]
-
----
 
 
 
