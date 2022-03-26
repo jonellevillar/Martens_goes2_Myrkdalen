@@ -275,7 +275,7 @@ Role of glycosyltansferases: to attach carbohydrates to proteins and lipids
 ---
 background-image: url(slides/Mealer_glyco.jpg)
 background-position: 20% 75%
-background-size: 350px
+background-size: 325px
 
 class: left top 
 
@@ -291,7 +291,7 @@ Dysregulation of glycan synthesis pathways show differential expression in brain
 
 ]
 
-
+.pull-right[.footnote[Mealer _et al_, Molecular Psychiatry, 2020]]
 
 ---
 
