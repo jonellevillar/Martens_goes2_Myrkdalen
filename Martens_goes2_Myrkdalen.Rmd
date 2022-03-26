@@ -164,8 +164,22 @@ class: top left
 .footnote[[1]xxx]
 
 ---
+## Factors influencing AP efficacy 
+
+.enlarge[
+   - Age, gender, smoking <br> <br />
+   - Genotype - i.e. metabolic enzymes <br> <br />
+   - Polypharmacy <br> <br />
+   - Time of day of administration <br> <br />
+   - Dose & Compliance - as monitored by serum values
+]
+
+---
 
 ## Hypothesis: 
+
+DNA methylation levels are influenced by same factors
+
 
 .enlarge[We hypothesize that differential DNA methylation is associated with 
 AP medication, independent of the diagnosis of SCZ, BPD or MDD. 
@@ -180,16 +194,6 @@ AP medication, independent of the diagnosis of SCZ, BPD or MDD.
  - Risperdal   (n=)
 
 ]
----
-
-## Factors that influence the efficacy of AP
-   - Age, gender, smoking <br> <br />
-   - Genotype - i.e. metabolic enzymes <br> <br />
-   - Polypharmacy <br> <br />
-   - Time of day of administration <br> <br />
-   - Dose & Compliance - as monitored by serum values
-
-## DNA methylation levels are impacted by the same factors! &#x1F62E;
 ---
 
 ## TOP Cohort
@@ -232,7 +236,7 @@ class:top left
    - SPCS1: signal peptidase complex subunit 1 <br> <br />
    - LOC100507065:long noncoding RNA <br> <br />
 
-Limitation - Some samples with polypharmacy that need to be teased out. 
+ 
 
 ---
 class: top left
@@ -253,10 +257,16 @@ class: top left
 
 
 ---
-### Glycosylation and glycan biosynthesis
+### Glycosylation 
 
-Glycosyltansferases assemble monosaccharides into linear and branched sugar chain. 
-The acceptor can be other mono- or oligosaccharides, lipids, or protein residues.
+.enlarge[
+* critical in the development and function of the nervous system <br> <br />
+* synaptogenesis <br> <br />
+* neurotransmission <br> <br />
+
+Glycosyltansferases: attach carbohydrates to proteins and lipids
+
+]
 
 ---
 background-image: url(slides/Mealer_glyco.jpg)
