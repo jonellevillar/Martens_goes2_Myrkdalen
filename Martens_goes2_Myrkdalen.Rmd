@@ -138,7 +138,7 @@ background-size: 750px
 class: top left 
 ###**GWAS findings for SCZ**  <br> <br />
 
-.footnote[SCZ Working Group of PGC, Nature, 2014; 2022]
+.footnote[SCZ Working Group of PGC, Nature, 2014; bioRxiv, 2022]
 .col-left[.enlarge[
  
 *      ***GRIA1***, ***GRIN2A*** : glutamate-gated ion channels <br> <br />
@@ -178,6 +178,7 @@ class: top left
    - Dose & Compliance - as monitored by serum values
 ]
 
+.footnote[Jönsson _et al.,__  2019; Castberg __et al.,__  , 2017]
 ---
 
 ## Hypothesis: 
