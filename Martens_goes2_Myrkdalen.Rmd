@@ -192,13 +192,10 @@ background-size: 325px
 .footnote[Jönsson _et al.,__  2019; Castberg __et al.,__  , 2017]
 ---
 
-## Hypothesis: 
-
-DNA methylation levels are influenced by same factors
+## Hypothesize: 
 
 
-.enlarge[We hypothesize that differential DNA methylation is associated with 
-AP medication, independent of the diagnosis of SCZ, BPD or MDD. 
+.enlarge[We hypothesize that AP medication is associated with differential DNA methylation in psychosis. We aim to identify:
 
 * Common effects for antipsychotic polytherapy (n=729) ***check this***
   
@@ -210,13 +207,14 @@ AP medication, independent of the diagnosis of SCZ, BPD or MDD.
  - Risperdal    (n = 57)
 
 ]
+
 ---
 
 ## TOP Cohort
 
 .enlarge[Challenges when teasing out medication effects on DNAm. <br> <br />
    - Polypharmacy <br> <br />
-   - Small sample size <br> <br />
+   - Small sample sizes of monotherapies <br> <br />
    - Missing values &#x1F641; <br> <br />
    - Model design ]
    
@@ -295,12 +293,10 @@ class: left top
 ### Dysregulated glycosylation in SCZ 
 
 .pull-right[
-* glutamate transporters
-* GABA receptor
-*
-*
-
-
+* glutamate 
+* glutamate
+* calcium
+* dopamine
 
 ]
 
