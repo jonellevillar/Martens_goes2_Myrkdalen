@@ -121,27 +121,31 @@ background-size: 750px
 
 ---
 ## Background 
-  - Antipsychotic medication 
-     - First line of treatment for psychosis
-     - Mechanism: alter multiple neurotransmitter systems & genes
-        - GABA: inhibitory
-        - Glutamate:excitatory
-        - Dopamine 
-        - Serotonin
-        
+.enlarge[
+
+* Antipsychotic medication <br> <br>
+* Mechanism: alterations in multiple neurotransmitter systems & genes <br> <br>
+ - GABA/Glutamate <br> 
+ - Voltage-gated Calcium channels <br> 
+ - Dopamine <br> 
+ - Serotonin <br> <br> 
+* Recent work suggests implications beyond synaptic biology 
+
+    ]  
+.footnote[SCZ Working Group, 2022]        
 ---
 
 class: top left 
 ###**GWAS findings for SCZ**  <br> <br />
 
-.footnote[SCZ Working Group of PGC, Nature, 2014]
+.footnote[SCZ Working Group of PGC, Nature, 2014; 2022]
 .col-left[.enlarge[
  
-*      ***GRIA1***, ***GRIN2A*** : glutamate <br> <br />
+*      ***GRIA1***, ***GRIN2A*** : glutamate-gated ion channels <br> <br />
 *     ***xxx*** : GABA <br> <br />
-*      ***D2R*** : dopamine D2 receptor<br> <br />
+*      ***D2R*** : Dopamine D2 receptor<br> <br />
 *      ***CACNA1C*** : calcium voltage-gated channel <br> <br />
-*       ***SLC39A8*** : Mn transporter
+*       ***SLC39A8*** : Manganese (Mn )transporter
 ]
 ]
 
@@ -184,14 +188,14 @@ DNA methylation levels are influenced by same factors
 .enlarge[We hypothesize that differential DNA methylation is associated with 
 AP medication, independent of the diagnosis of SCZ, BPD or MDD. 
 
-1. Common effects for antipsychotic polytherapy (n=729) ***check this***
- 
+* Common effects for antipsychotic polytherapy (n=729) ***check this***
+  
 
-2. Specific effects for antipsychotic monotherapy
- - Aripiprazole (n=)
- - Olanzapine   (n=)
- - Quetiapine  (n=)  
- - Risperdal   (n=)
+* Specific effects for antipsychotic monotherapy (n = 433)
+ - Aripiprazole (n = 62)
+ - Olanzapine   (n = 192)
+ - Quetiapine   (n = 122)  
+ - Risperdal    (n = 57)
 
 ]
 ---
@@ -217,7 +221,6 @@ Approaches to consider: <br>
 add photos of article titles
 
 ---
-
 
 class:top left
 
@@ -258,17 +261,14 @@ class: top left
 
 
 ---
-### Glycosylation <br> <br />
+### Glycosylation <br> 
 
-
+### Critical in the development & function of the nervous system
 .enlarge[
-* critical in the development and function of the nervous system <br> <br />
-* cell-cell recognition, axon pathfinding <br> <br />
+* cell-cell recognition <br> <br />
+* axon pathfinding <br> <br />
 * synaptogenesis <br> <br />
 * neurotransmission <br> <br />
-
-
-Role of glycosyltansferases: to attach carbohydrates to proteins and lipids
 
 ]
 
@@ -287,29 +287,32 @@ class: left top
 *
 *
 
-Dysregulation of glycan synthesis pathways show differential expression in brains of individuals with SCZ - may be due to genetic predisposition, environmental perturbations, or medication use
+
 
 ]
 
 .pull-right[.footnote[Mealer _et al_, Molecular Psychiatry, 2020]]
 
 ---
+class:top left
+### Dysregulated glycosylation in SCZ 
+Dysregulation of glycan synthesis pathways show differential expression in brains of individuals with SCZ - may be due to genetic predisposition, environmental perturbations, or medication use
 
 .pull.left[.footnote[Williams, _et al.,_ Mol. Psychiatry, 2020]]
 .pull-right[.footnote[Mealer, _et al.,_ Mol. Psychiatry 2020]]
 
 ---
-class:top left
+
 ### GLT8D1 <br> -  transcripts associated with SCZ and BPD
 
-
+Role of glycosyltansferases: to attach carbohydrates to proteins and lipids
 
 .pull.left[.footnote[Ripke, _et al.,_ Nature Genetics, 2013]]
 .pull-right[.footnote[Stahl EA, _et al.,_ Nature Genetics, 2019]]
 
 ---
 class:top left
-### GLT8D1 <br> - transcripts associated with SCZ 
+### GLT8D1 <br> - MOSTest
 
 
 
@@ -321,7 +324,7 @@ class:top left
 class:top left
 ### Differentially Methylated Regions (DMRs) <br/> 
 
-.enlarge[- Statistically significant methylation status]
+.enlarge[- Regions with statistically significant methylation status]
 
 ![](slides/DMRs_Que_n84.png) <br> <br />
 
