@@ -105,7 +105,7 @@ background-image: url(slides/Smigielski.png)
 background-position:cover
 background-size: 750px
 
-.footnote[Smigielski _et al_, Molecular Psychiatry, 2020]
+.footnote[Smigielski _et al._, Molecular Psychiatry, 2020]
 
 
 ## **Epigenetics**
@@ -141,11 +141,11 @@ class: top left
 .footnote[SCZ Working Group of PGC, Nature, 2014; bioRxiv, 2022]
 .col-left[.enlarge[
  
-*      ***GRIA1***, ***GRIN2A*** : glutamate-gated ion channels <br> <br />
+*      ***GRIA1***, ***GRIN2A*** : Glutamate-gated ion channels <br> <br />
 *     ***xxx*** : GABA <br> <br />
 *      ***D2R*** : Dopamine D2 receptor<br> <br />
-*      ***CACNA1C*** : calcium voltage-gated channel <br> <br />
-*       ***SLC39A8*** : Manganese (Mn )transporter
+*      ***CACNA1C*** : Calcium voltage-gated channel <br> <br />
+*       ***SLC39A8*** : Manganese (Mn) transporter
 ]
 ]
 
@@ -166,6 +166,17 @@ class: top left
   ]
 
 
+
+
+---
+###Factors influencing AP efficacy 
+
+
+background-image: url(slides/Hiemke_img_b.png)
+background-position: cover
+background-size: 325px
+
+.footnote[Hiemke _et al._, Pharmacopsychiatry 2018; Castberg _et al._, Acta Psychiatr Scand, 2017]
 
 ---
 ## Factors influencing AP efficacy 
