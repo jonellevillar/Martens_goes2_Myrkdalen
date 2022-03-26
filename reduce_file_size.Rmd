@@ -16,7 +16,7 @@ library("imager")
 ```
 
 ```{r}
-original = imager::load.image("slides/hugh-laurie.jpg")
+original = imager::load.image("slides/Hiemke_img.jpeg")
 
 ```
 
@@ -26,11 +26,11 @@ d
 ```
 
 ```{r}
-fs::file_info("slides/hugh-laurie.jpg") $size
+fs::file_info("slides/Hiemke_img.jpeg") $size
 ```
 
 ```{r}
-scale = max(d / 800)
+scale = max(d / 850)
 img = imager::resize(original,
                      imager::width(original) / scale,
                      imager::height(original) / scale,
@@ -55,7 +55,7 @@ img
 ```
 
 ```{r}
-imager::save.image(img, file = "slides/hugh-laurie2.jpg")
+imager::save.image(img, file = "slides/Hiemke_img5.jpg")
 img
 ```
 
