@@ -23,3 +23,7 @@ class:top left
 width="500px" height="500px"
 style="position:absolute; right:5px; top:130px;">
   
+  <img style="border-radius: 50%;" 
+src="img/RLadiesGlobal.png"
+width="150px"
+/>
