@@ -27,3 +27,6 @@ style="position:absolute; right:5px; top:130px;">
 src="img/RLadiesGlobal.png"
 width="150px"
 />
+  
+ This works 
+  ![](slides/Hiemke_img2.jpg)
