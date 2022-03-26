@@ -336,7 +336,7 @@ class:top left
 
 .enlarge[
 * For larger sample size & power: <br> continue analyses of AP monotherapy and adjust for polypharmacy <br><br> 
-* Analyze samples solely on AP (n=) versus medication-free samples (n = 131) <br><br>
+* Analyze samples __Solely on AP__ (n=) versus __Medication-free__ samples (n = 131) <br><br>
 * Surrogate variable analysis (SVA) to identify unknown variation <br><br>
 * Ask Anja for gene expression data for GLT8D1 from TOP samples &#x1F600;
 ]
