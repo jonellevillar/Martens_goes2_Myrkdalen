@@ -178,18 +178,6 @@ background-size: 800px
 
 
 ---
-## Factors influencing AP efficacy 
-
-.enlarge[
-   - Age, gender, smoking <br> <br />
-   - Genotype - i.e. metabolic enzymes <br> <br />
-   - Polypharmacy <br> <br />
-   - Time of day of administration <br> <br />
-   - Dose & Compliance - as monitored by serum values
-]
-
-.footnote[Jönsson _et al.,__  2019; Castberg __et al.,__  , 2017]
----
 
 ## Hypothesize: 
 
