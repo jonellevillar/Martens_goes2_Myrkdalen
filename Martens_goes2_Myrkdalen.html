@@ -89,7 +89,7 @@ background-image: url(slides/Smigielski.png)
 background-position:cover
 background-size: 750px
 
-.footnote[Smigielski _et al_, Molecular Psychiatry, 2020]
+.footnote[Smigielski _et al._, Molecular Psychiatry, 2020]
 
 
 ## **Epigenetics**
@@ -105,27 +105,31 @@ background-size: 750px
 
 ---
 ## Background 
-  - Antipsychotic medication 
-     - First line of treatment for psychosis
-     - Mechanism: alter multiple neurotransmitter systems &amp; genes
-        - GABA: inhibitory
-        - Glutamate:excitatory
-        - Dopamine 
-        - Serotonin
-        
+.enlarge[
+
+* Antipsychotic medication &lt;br&gt; &lt;br&gt;
+* Mechanism: alterations in multiple neurotransmitter systems &amp; genes &lt;br&gt; &lt;br&gt;
+ - GABA/Glutamate &lt;br&gt; 
+ - Voltage-gated Calcium channels &lt;br&gt; 
+ - Dopamine &lt;br&gt; 
+ - Serotonin &lt;br&gt; &lt;br&gt; 
+* Recent work suggests implications beyond synaptic biology 
+
+    ]  
+.footnote[SCZ Working Group, 2022]        
 ---
 
 class: top left 
-###**GWAS findings for Schizophrenia** [1] &lt;br&gt; &lt;br /&gt;
+###**GWAS findings for SCZ**  &lt;br&gt; &lt;br /&gt;
 
-.footnote[[1] SCZ Working Group of PGC, 2014]
+.footnote[SCZ Working Group of PGC, Nature, 2014; bioRxiv, 2022]
 .col-left[.enlarge[
  
-*      ***GRIA1***, ***GRIN2A*** : glutamate &lt;br&gt; &lt;br /&gt;
+*      ***GRIA1***, ***GRIN2A*** : Glutamate-gated ion channels &lt;br&gt; &lt;br /&gt;
 *     ***xxx*** : GABA &lt;br&gt; &lt;br /&gt;
-*      ***D2R*** : dopamine D2 receptor&lt;br&gt; &lt;br /&gt;
-*      ***CACNA1C*** : calcium voltage-gated channel &lt;br&gt; &lt;br /&gt;
-*       ***SLC39A8*** : Mn transporter
+*      ***D2R*** : Dopamine D2 receptor&lt;br&gt; &lt;br /&gt;
+*      ***CACNA1C*** : Calcium voltage-gated channel &lt;br&gt; &lt;br /&gt;
+*       ***SLC39A8*** : Manganese (Mn) transporter
 ]
 ]
 
@@ -136,7 +140,7 @@ class: top left
 ##WHAT EWAS FIndings?
 ###**EWAS findings relevant for AP project** [1] &lt;br&gt; &lt;br /&gt;
 
-.footnote[[1] SCZ Working Group of PGC, 2014]
+.footnote[[1] SCZ Working Group of PGC, Nature, 2014]
 .col-left[.enlarge[
 
 *     Candidate genes &lt;br&gt; &lt;br /&gt;
@@ -145,35 +149,51 @@ class: top left
   ]
   ]
 
-.footnote[[1]xxx]
+
+
 
 ---
+###Factors influencing AP efficacy 
 
-## Hypothesis: 
 
-.enlarge[We hypothesize that differential DNA methylation is associated with 
-AP medication, independent of the diagnosis of SCZ, BPD or MDD. 
+background-image: url(slides/Hiemke_img_b.png)
+background-position: cover
+background-size: 325px
 
-1. Common effects for antipsychotic polytherapy (n=729) ***check this***
- 
+.footnote[Hiemke _et al._, Pharmacopsychiatry 2018; Castberg _et al._, Acta Psychiatr Scand, 2017]
 
-2. Specific effects for antipsychotic monotherapy
- - Aripiprazole (n=)
- - Olanzapine   (n=)
- - Quetiapine  (n=)  
- - Risperdal   (n=)
-
-]
 ---
+## Factors influencing AP efficacy 
 
-## Factors that influence the efficacy of AP
+.enlarge[
    - Age, gender, smoking &lt;br&gt; &lt;br /&gt;
    - Genotype - i.e. metabolic enzymes &lt;br&gt; &lt;br /&gt;
    - Polypharmacy &lt;br&gt; &lt;br /&gt;
    - Time of day of administration &lt;br&gt; &lt;br /&gt;
    - Dose &amp; Compliance - as monitored by serum values
+]
 
-## DNA methylation levels are impacted by the same factors! &amp;#x1F62E;
+.footnote[Jönsson _et al.,__  2019; Castberg __et al.,__  , 2017]
+---
+
+## Hypothesis: 
+
+DNA methylation levels are influenced by same factors
+
+
+.enlarge[We hypothesize that differential DNA methylation is associated with 
+AP medication, independent of the diagnosis of SCZ, BPD or MDD. 
+
+* Common effects for antipsychotic polytherapy (n=729) ***check this***
+  
+
+* Specific effects for antipsychotic monotherapy (n = 433)
+ - Aripiprazole (n = 62)
+ - Olanzapine   (n = 192)
+ - Quetiapine   (n = 122)  
+ - Risperdal    (n = 57)
+
+]
 ---
 
 ## TOP Cohort
@@ -198,38 +218,39 @@ add photos of article titles
 
 ---
 
-
 class:top left
 
-### Models selected for Quetiapine n=92 &lt;br&gt; &lt;br&gt; &lt;br/&gt;
+### Models selected for Quetiapine  
+* .enlarge[Serum values &gt; 0, n = 92] &lt;br&gt;&lt;br&gt; &lt;br&gt;
 
-.enlarge[Mod1: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore] &lt;br&gt; &lt;br /&gt;
+.enlarge[**Mod1**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore] &lt;br&gt; &lt;br&gt; &lt;br /&gt;
 
-.enlarge[Mod2: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + &lt;br&gt; &lt;br /&gt; Mono + Neu + NK + CD4T + CD8T + Bcells]
+.enlarge[**Mod2**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + &lt;br&gt; &lt;br /&gt; Mono + Neu + NK + CD4T + CD8T + Bcells]
 
 ---
 
 class:top left
-### Results for CpGs at Genome-wide significance
+### Results &lt;br&gt; &lt;br&gt; Genes associated with CpGs at genome-wide significance
 
+.enlarge[
    - GLT8D1: Glycosyltransferase 8 Domain Containing 1 &lt;br&gt; &lt;br /&gt;
    - SPCS1: signal peptidase complex subunit 1 &lt;br&gt; &lt;br /&gt;
    - LOC100507065:long noncoding RNA &lt;br&gt; &lt;br /&gt;
-
-Limitation - Some samples with polypharmacy that need to be teased out. 
+]
+ 
 
 ---
 class: top left
 ### Manhatten plots comparing the two models 
 
 
-.pull-left[Model 1: Adjustment for eCells: p-val=
+.pull-left[Model 1: Pval = 2.92e-08, adj BH Pval = 0.017
 
 ![](slides/Que_n92_Mod1_manhatt.png)
 
 ]
 
-.pull-right[Model 2: No adjustment for eCells: p-val=
+.pull-right[Model 2: Pval = 2.46e-08, adj BH Pval = 0.018
 
 ![](slides/Que_n92_Mod2_manhatt.png)
 
@@ -237,48 +258,58 @@ class: top left
 
 
 ---
-### Glycosylation and glycan biosynthesis
+### Glycosylation &lt;br&gt; 
 
-Glycosyltansferases assemble monosaccharides into linear and branched sugar chain. 
-The acceptor can be other mono- or oligosaccharides, lipids, or protein residues.
+### Critical in the development &amp; function of the nervous system
+.enlarge[
+* cell-cell recognition &lt;br&gt; &lt;br /&gt;
+* axon pathfinding &lt;br&gt; &lt;br /&gt;
+* synaptogenesis &lt;br&gt; &lt;br /&gt;
+* neurotransmission &lt;br&gt; &lt;br /&gt;
+
+]
 
 ---
 background-image: url(slides/Mealer_glyco.jpg)
 background-position: 20% 75%
-background-size: 350px
+background-size: 325px
 
 class: left top 
 
-### GLT8D1 in psychiatry 
+### Dysregulated glycosylation in SCZ 
 
-.pull-left[
+.pull-right[
+* glutamate transporters
+* GABA receptor
 *
 *
-*
-*
+
 
 
 ]
 
-
+.pull-right[.footnote[Mealer _et al_, Molecular Psychiatry, 2020]]
 
 ---
+class:top left
+### Dysregulated glycosylation in SCZ 
+Dysregulation of glycan synthesis pathways show differential expression in brains of individuals with SCZ - may be due to genetic predisposition, environmental perturbations, or medication use
 
 .pull.left[.footnote[Williams, _et al.,_ Mol. Psychiatry, 2020]]
 .pull-right[.footnote[Mealer, _et al.,_ Mol. Psychiatry 2020]]
 
 ---
-class:top left
+
 ### GLT8D1 &lt;br&gt; -  transcripts associated with SCZ and BPD
 
-
+Role of glycosyltansferases: to attach carbohydrates to proteins and lipids
 
 .pull.left[.footnote[Ripke, _et al.,_ Nature Genetics, 2013]]
 .pull-right[.footnote[Stahl EA, _et al.,_ Nature Genetics, 2019]]
 
 ---
 class:top left
-### GLT8D1 &lt;br&gt; - transcripts associated with SCZ 
+### GLT8D1 &lt;br&gt; - MOSTest
 
 
 
@@ -290,7 +321,7 @@ class:top left
 class:top left
 ### Differentially Methylated Regions (DMRs) &lt;br/&gt; 
 
-.enlarge[- Statistically significant methylation status]
+.enlarge[- Regions with statistically significant methylation status]
 
 ![](slides/DMRs_Que_n84.png) &lt;br&gt; &lt;br /&gt;
 
@@ -300,9 +331,12 @@ class:top left
 class:top left
 ### Future tasks
 
-### AP monotherapy but adjust for poypharmacy for larger sample size &amp; power
-### Surrogate variable analysis (SVA) to identify unknown variation
-
+.enlarge[
+* For larger sample size &amp; power: &lt;br&gt; continue analyses of AP monotherapy and adjust for polypharmacy &lt;br&gt;&lt;br&gt; 
+* Analyze samples with serum values &gt; 0,  &lt;br&gt; **Solely on AP** (n=330) versus **Medication-free** samples (n = 131) &lt;br&gt;&lt;br&gt;
+* Surrogate variable analysis (SVA) to identify unknown variation &lt;br&gt;&lt;br&gt;
+* Ask Anja for gene expression data for GLT8D1 from TOP samples &amp;#x1F600;
+]
 
 ---
 class:top left
@@ -343,15 +377,7 @@ background-size: 10px
 
 ---
 
-layout: false
 
-## Square image
-
-&lt;center&gt;&lt;img src="https://octodex.github.com/images/labtocat.png" alt="GithHub Octocat" height="400px" /&gt;&lt;/center&gt;
-
-.footnote[GitHub Octocat]
-
----
 
 
 
