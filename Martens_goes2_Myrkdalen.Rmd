@@ -224,11 +224,12 @@ add photos of article titles
 
 class:top left
 
-### Models selected for Quetiapine n=92 <br> <br> <br/>
+### Models selected for Quetiapine  
+* .enlarge[Serum values > 0, n = 92] <br><br> <br>
 
-.enlarge[Mod1: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore] <br> <br />
+.enlarge[**Mod1**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore] <br> <br> <br />
 
-.enlarge[Mod2: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + <br> <br /> Mono + Neu + NK + CD4T + CD8T + Bcells]
+.enlarge[**Mod2**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + <br> <br /> Mono + Neu + NK + CD4T + CD8T + Bcells]
 
 ---
 
@@ -336,7 +337,7 @@ class:top left
 
 .enlarge[
 * For larger sample size & power: <br> continue analyses of AP monotherapy and adjust for polypharmacy <br><br> 
-* Analyze samples __Solely on AP__ (n=) versus __Medication-free__ samples (n = 131) <br><br>
+* Analyze samples with serum values > 0,  <br> **Solely on AP** (n=330) versus **Medication-free** samples (n = 131) <br><br>
 * Surrogate variable analysis (SVA) to identify unknown variation <br><br>
 * Ask Anja for gene expression data for GLT8D1 from TOP samples &#x1F600;
 ]
