@@ -107,26 +107,33 @@ xaringanExtra::use_tile_view()
 
 ---
 
-background-image: url(slides/Smigielski.png)
+background-image: url(slides/Swathy.jpeg)
 background-position:cover
-background-size: 750px
+background-size: 700px
 
-.footnote[Smigielski _et al._, Molecular Psychiatry, 2020]
+.footnote[Swathy & Banerjee, Epigenomics, 2017]
 
 
-## **Epigenetics**
+### **Epigenetic modifications**
 
 
 ---
 
 ## Background - Psychosis
-  - Psychosis
-     - Hallucinations and delusions 
-       SCZ, BPD, MDD 
-     
+.enlarge[
+* Symptoms:
+     - Hallucinations and delusions <br> 
+     - May manifest at different stages for SCZ, BPD, MDD <br> <br />
+* Treatment:
+     - Antipsychotics (AP) alleviate or reduce symptoms <br> 
+     - Long-term use associated with side effects <br> <br />
+* Biomarkers:
+     - Lack of knowledge about pathophysiology and mechanisms of drug action
+       
+    ] 
 
 ---
-## Background - Antipsychotic medication
+## Background - Antipsychotics
 .enlarge[
 
 * Mechanism: alterations in multiple neurotransmitter systems & genes <br> <br>
