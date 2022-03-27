@@ -344,7 +344,7 @@ class:top left
 .enlarge[
 * For larger sample size & power: <br> continue analyses of AP monotherapy and adjust for polypharmacy <br><br> 
 * Analyze samples with serum values > 0,  <br> **Solely on AP** (n=330) versus **Medication-free** samples (n = 131) <br><br>
-* Surrogate variable analysis (SVA) to identify unknown variation <br><br>
+* Compare CpGs/DMRs from Quetiapine with CPGs from published lipid EWAS  <br><br>
 * Ask Anja for gene expression data for GLT8D1 from TOP samples &#x1F600;
 ]
 
