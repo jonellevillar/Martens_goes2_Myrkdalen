@@ -233,8 +233,6 @@ Approaches to consider: <br>
 <img src="slides/Tuuli.png" width="50%" align="right" />
 
 
-
-
 ---
 
 class:top left
@@ -309,34 +307,35 @@ DR2,***DRD2***: dopamine;cell-surface expression
 
 ---
 
+### Phenotyes associated with GLT8D1 <br> 
+**6+ variants associated with SCZ and BPD (ensembl.org)**
 
-
-### GLT8D1 <br> -  transcripts associated with SCZ and BPD
-
-Role of glycosyltansferases: to attach carbohydrates to proteins and lipids
-
-.pull.left[.footnote[Ripke, _et al.,_ Nature Genetics, 2013]]
-.pull-right[.footnote[Stahl EA, _et al.,_ Nature Genetics, 2019]]
+.enlarge[
+* Stahl EA, _et al.,_ Nature Genetics, 2019 <br> <br />
+* Pardiñas, _et al._, Nature Genetics, 2018 <br> <br />
+* Li, _et al._, Nature Genetics, 2017 <br> <br />
+* SCZ Working Group of the PGC, Nature, 2014 <br> <br />
+* Ripke, _et al._, Nature Genetics, 2013 <br> <br />
+* BPD Working Group of PGC, Nature Genetics, 2011
+]
 
 ---
 class:top left
-### GLT8D1 <br> - MOSTest
+### GLT8D1 variants identified with MOSTest
 
+**2 variants associated with brain morphology and cortical surface area**
 
-
-.pull.left[.footnote[van der Meer, _et al.,_ Nature Communications, 2020]]
-
-
+![MOSTest](slides/MOSTest.png)
 
 ---
 class:top left
 ### Differentially Methylated Regions (DMRs) <br/> 
 
-.enlarge[- Regions with statistically significant methylation status]
+* Regions with statistically significant methylation status
 
 ![](slides/DMRs_Que_n84.png) <br> <br />
 
-.enlarge[For lipid lovers! APOB: Apolipoprotein B - ligand for LDL receptor]
+.enlarge[For lipid enthusiasts! APOB: Apolipoprotein B - ligand for LDL receptor]
 
 ---
 class:top left
@@ -370,23 +369,7 @@ background-size: 10px
 
 ---
 
-### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
----
 
 
 
