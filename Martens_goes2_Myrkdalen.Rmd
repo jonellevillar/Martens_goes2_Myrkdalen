@@ -40,10 +40,16 @@ dark_yellow <- "#EFBE43"
 light_yellow <- "#FDF7E9"
 gray <- "#333333"
 blue <- "#4466B0"
-
-black <- "#1381B0"
-orange <- "#FF961C"
 white <- "#FFFFFF"
+
+colors = c(
+Crimson = "#DC143C",
+Coral = "#FF7F50",
+Gold = "#FFD700",
+LimeGreen = "#32CD32"
+)
+
+
 
 style_duo(
   primary_color = light_yellow,
@@ -143,7 +149,7 @@ class: top left
  
 *      ***GRIA1***, ***GRIN2A*** : Glutamate-gated ion channels <br> <br />
 *     ***GABBR2*** : GABA <br> <br />
-*      ***D2R*** : Dopamine D2 receptor<br> <br />
+*      ***DRD2*** : Dopamine D2 receptor<br> <br />
 *      ***CACNA1C*** : Calcium voltage-gated channel <br> <br />
 *       ***SLC39A8*** : Manganese (Mn) transporter
 ]
@@ -278,12 +284,12 @@ class: left top
 
 ### Dysregulated glycosylation in SCZ 
 
-.pull-right[
-* glutamate 
-* glutamate
-* calcium
-* dopamine
-
+.pull-right[.enlarge[
+GluA1,***GRIA1***: glutamate; cell-surface expression <br> <br /> 
+GluN2A,***GRIN2A***: glutamate; receptor localization <br> <br />
+CaV1.2,***CACNA1C***: calcium;cell-surface expression <br> <br />
+DR2,***DRD2***: dopamine;cell-surface expression
+]
 ]
 
 .pull-right[.footnote[Mealer _et al_, Molecular Psychiatry, 2020]]
