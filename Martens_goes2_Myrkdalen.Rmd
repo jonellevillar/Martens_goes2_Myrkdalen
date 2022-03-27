@@ -119,17 +119,16 @@ background-size: 750px
 
 ---
 
-## Background 
+## Background - Psychosis
   - Psychosis
      - Hallucinations and delusions 
        SCZ, BPD, MDD 
      
 
 ---
-## Background 
+## Background - Antipsychotic medication
 .enlarge[
 
-* Antipsychotic medication <br> <br>
 * Mechanism: alterations in multiple neurotransmitter systems & genes <br> <br>
  - GABA/Glutamate <br> 
  - Voltage-gated Calcium channels <br> 
@@ -139,6 +138,22 @@ background-size: 750px
 
     ]  
 .footnote[[1] SCZ Working Group of the PGC, medRxiv, 2022;  [2] Kaar _et al._, Neuropharmacology, 2020]        
+---
+class: top left 
+
+###**EWAS findings for antipsychotics** [1] <br> <br />
+
+.footnote[[1] SCZ Working Group of PGC, Nature, 2014]
+.enlarge[
+
+* Drug response-related DNAm remains poorly understood <br> <br />
+* Variety of methods, tissues assayed, study designs, sample sizes <br> <br />
+*     Candidate genes <br> <br />
+*      Genome-wide <br> <br />
+* Integration of genomic data and genome-wide DNAm data may be more effective     
+  ]
+  ]
+
 ---
 
 class: top left 
@@ -157,19 +172,7 @@ class: top left
 
 ---
 
-class: top left 
 
-##WHAT EWAS FIndings?
-###**EWAS findings relevant for AP project** [1] <br> <br />
-
-.footnote[[1] SCZ Working Group of PGC, Nature, 2014]
-.col-left[.enlarge[
-
-*     Candidate genes <br> <br />
-*      Genome-wide <br> <br />
-      
-  ]
-  ]
 
 ---
 
