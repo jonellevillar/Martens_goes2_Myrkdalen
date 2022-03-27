@@ -194,7 +194,7 @@ background-size: 800px
 
 .enlarge[We hypothesize that AP medication is associated with differential DNA methylation in psychosis. We aim to identify:
 
-* Common effects for antipsychotic polytherapy (n=729) ***check this***
+* Common effects for antipsychotic polytherapy (n = 779) 
   
 
 * Specific effects for antipsychotic monotherapy (n = 433)
