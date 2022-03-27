@@ -350,9 +350,9 @@ class:top left
 
 ---
 class:top left
-background-image: url(slides/Myrkdalen.jpeg)
-background-position: 25% 25%
-background-size: 10px
+background-image: url(slides/Myrkdalen_group.png)
+background-position: 10% 45%
+background-size: 500px
 
 
 # Acknowledgements <br>
@@ -360,9 +360,11 @@ background-size: 10px
 **Supervisor Stéphanie**<br><br>
 **Co-Supervisor Anne-Kristin**<br><br>
 **Colleagues in The Martens Group**<br><br>
-**Dept. of Clinical Science II** <br><br><br>
-**NORMENT** <br><br>
-## &#x1F618; 
+**Dept. of Clinical Science II** <br><br>
+**NORMENT** <br><br><br/ >
+
+&#x1F490; **En spesiell takk til Styret i Dr Einar Martens Fond!** <br><br>
+
 
 ]
 
