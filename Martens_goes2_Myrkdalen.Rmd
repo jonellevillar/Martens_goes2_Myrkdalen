@@ -171,10 +171,6 @@ class: top left
 
 ---
 
-
-
----
-
 background-image: url(slides/Hiemke_img3.jpg)
 background-position:cover
 background-size: 800px
@@ -187,7 +183,6 @@ background-size: 800px
 ---
 
 ## Hypothesize: 
-
 
 .enlarge[We hypothesize that AP medication is associated with differential DNA methylation in psychosis. We aim to identify:
 
@@ -297,14 +292,8 @@ DR2,***DRD2***: dopamine;cell-surface expression
 .pull-right[.footnote[Mealer _et al_, Molecular Psychiatry, 2020]]
 
 ---
-class:top left
-### Dysregulated glycosylation in SCZ 
-Dysregulation of glycan synthesis pathways show differential expression in brains of individuals with SCZ - may be due to genetic predisposition, environmental perturbations, or medication use
 
-.pull.left[.footnote[Williams, _et al.,_ Mol. Psychiatry, 2020]]
-.pull-right[.footnote[Mealer, _et al.,_ Mol. Psychiatry 2020]]
 
----
 
 ### GLT8D1 <br> -  transcripts associated with SCZ and BPD
 
