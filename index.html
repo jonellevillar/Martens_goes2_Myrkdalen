@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Teasing out antipsychotic medication effects on DNA methylation</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Jonelle" />
+    <script src="index_files/header-attrs/header-attrs.js"></script>
+    <link href="index_files/tile-view/tile-view.css" rel="stylesheet" />
+    <script src="index_files/tile-view/tile-view.js"></script>
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="yellow_dots.css" type="text/css" />
+    <link rel="stylesheet" href="extra.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Teasing out antipsychotic medication effects on DNA methylation
+## Martens goes 2 Myrkdalen! <br/> 🏔 🚡 ⛷
+### Jonelle
+### March 28-29, 2022
+
+---
+
+
+
+
+
+
+
+<div>
+<style type="text/css">.xaringan-extra-logo {
+width: 250px;
+height: 250px;
+z-index: 0;
+background-image: url(slides/UiBlogoMED_gray_v_Eng.png);
+background-size: contain;
+background-repeat: no-repeat;
+position: absolute;
+top:2em;right:2em;
+}
+</style>
+<script>(function () {
+  let tries = 0
+  function addLogo () {
+    if (typeof slideshow === 'undefined') {
+      tries += 1
+      if (tries < 10) {
+        setTimeout(addLogo, 100)
+      }
+    } else {
+      document.querySelectorAll('.remark-slide-content:not(.title-slide):not(.inverse):not(.hide_logo)')
+        .forEach(function (slide) {
+          const logo = document.createElement('div')
+          logo.classList = 'xaringan-extra-logo'
+          logo.href = null
+          slide.appendChild(logo)
+        })
+    }
+  }
+  document.addEventListener('DOMContentLoaded', addLogo)
+})()</script>
+</div>
+
+
+&lt;style type="text/css"&gt;
+
+.small { 
+  font-size: 0.75em
+}  
+
+.bitty { 
+    font-size: 1.25em;
+}
+
+.enlarge { 
+    font-size: 1.5em;
+}
+
+.fade {
+  opacity: 0.66;
+}
+
+&lt;/style&gt;
+
+---
+
+background-image: url(slides/Swathy.jpeg)
+background-position:cover
+background-size: 700px
+
+.footnote[Swathy &amp; Banerjee, Epigenomics, 2017]
+
+
+### **Epigenetic modifications**
+
+
+---
+
+## Background - Psychosis
+.enlarge[
+* Symptoms:
+     - Hallucinations, delusions, loss of contact with reality &lt;br&gt; 
+     - **Loss of insight** into their condition &lt;br&gt; 
+     - May manifest at different stages for SCZ, BPD, MDD &lt;br&gt; &lt;br /&gt;
+* Treatment:
+     - Antipsychotics (AP) alleviate or reduce symptoms &lt;br&gt; 
+     - Long-term use associated with side effects &lt;br&gt; &lt;br /&gt;
+* Biomarkers:
+     - Knowledge about pathophysiology &amp; mechanisms of drug action incomplete
+       
+    ] 
+
+---
+## Background - Antipsychotics
+.enlarge[
+
+* Mechanism: alterations in multiple neurotransmitter systems &amp; genes &lt;br&gt; &lt;br&gt;
+ - GABA/Glutamate &lt;br&gt; 
+ - Voltage-gated Calcium channels &lt;br&gt; 
+ - Dopamine &lt;br&gt; 
+ - Serotonin &lt;br&gt; &lt;br&gt; 
+* Recent work suggests implications beyond synaptic biology [1,2]
+
+    ]  
+.footnote[[1] SCZ Working Group of the PGC, medRxiv, 2022;  [2] Kaar _et al._, Neuropharmacology, 2020]        
+---
+class: top left 
+
+###**EWAS findings for antipsychotics** &lt;br&gt; &lt;br /&gt;
+
+.footnote[Burghardt ___et.al___, Pharmacotherapy, 2020]
+.enlarge[
+
+* Drug response-related DNAm remains poorly understood &lt;br&gt; &lt;br /&gt;
+* Variety of methods, tissues assayed, study designs, sample sizes &lt;br&gt; &lt;br /&gt;
+* Lack of consistency in reporting medication in Candidate genes &amp; Genome-wide studies &lt;br&gt; &lt;br /&gt;
+* Integration of genomic data and genome-wide DNAm data may be more effective     
+  ]
+  
+
+---
+
+class: top left 
+###**GWAS findings for SCZ**  &lt;br&gt; &lt;br /&gt;
+
+.footnote[SCZ Working Group of PGC, Nature, 2014; medRxiv, 2022]
+.col-left[.enlarge[
+ 
+*      ***GRIA1***, ***GRIN2A*** : Glutamate-gated ion channels &lt;br&gt; &lt;br /&gt;
+*     ***GABBR2*** : GABA &lt;br&gt; &lt;br /&gt;
+*      ***DRD2*** : Dopamine D2 receptor&lt;br&gt; &lt;br /&gt;
+*      ***CACNA1C*** : Calcium voltage-gated channel &lt;br&gt; &lt;br /&gt;
+*       ***SLC39A8*** : Manganese (Mn) transporter
+]
+]
+
+---
+
+background-image: url(slides/Hiemke_img3.jpg)
+background-position:cover
+background-size: 800px
+
+###Factors influencing AP efficacy
+
+.footnote[Hiemke _et al._, Pharmacopsychiatry 2018; Castberg _et al._, Acta Psychiatr Scand, 2017]
+
+
+---
+
+## Aims: 
+
+.enlarge[Neuropsychiatric drugs have slightly different mechanisms of action. &lt;br&gt; &lt;br/&gt; We aim to identify differential DNA methylation associated with AP:
+
+* Common effects for AP polytherapy (n = 779) 
+  
+
+* Specific effects for AP monotherapy (n = 433)
+ - Aripiprazole (n = 62)
+ - Olanzapine   (n = 192)
+ - Quetiapine   (n = 122)  
+ - Risperdal    (n = 57)
+
+]
+
+---
+
+## TOP Cohort
+
+.enlarge[Challenges when teasing out medication effects on DNAm. &lt;br&gt; &lt;br /&gt;
+   - Polypharmacy &lt;br&gt; &lt;br /&gt;
+   - Small sample sizes of monotherapies &lt;br&gt; &lt;br /&gt;
+   - Missing values &amp;#x1F641; &lt;br&gt; &lt;br /&gt;
+   - Model design ]
+   
+
+
+
+---
+## Study/model design &lt;br&gt; 
+
+.enlarge[
+Approaches to consider: &lt;br&gt;
+
+   - Evaluate EWAS serum AP values  &lt;br&gt; &lt;br /&gt;
+   - Evaluate samples as one phenotype without correction for eCells 
+   ]
+
+&lt;img src="slides/Gupta.png" width="45%" align="left" /&gt;
+
+&lt;img src="slides/Tuuli.png" width="50%" align="right" /&gt;
+
+
+---
+
+class:top left
+
+### Models selected for Quetiapine  
+* .enlarge[Serum values &gt; 0, n = 92] &lt;br&gt;&lt;br&gt; &lt;br&gt;
+
+.enlarge[**Mod1**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore] &lt;br&gt; &lt;br&gt; &lt;br /&gt;
+
+.enlarge[**Mod2**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + &lt;br&gt; &lt;br /&gt; Mono + Neu + NK + CD4T + CD8T + Bcells]
+
+---
+
+class:top left
+### Results &lt;br&gt; &lt;br&gt; Genes associated with CpGs at genome-wide significance
+
+.enlarge[
+   - GLT8D1: Glycosyltransferase 8 Domain Containing 1 &lt;br&gt; &lt;br /&gt;
+   - SPCS1: signal peptidase complex subunit 1 &lt;br&gt; &lt;br /&gt;
+   - LOC100507065:long noncoding RNA &lt;br&gt; &lt;br /&gt;
+]
+ 
+
+---
+class: top left
+### Manhatten plots comparing the two models 
+
+
+.pull-left[Model 1: Pval = 2.92e-08, adj BH Pval = 0.017
+
+![](slides/Que_n92_Mod1_manhatt.png)
+
+]
+
+.pull-right[Model 2: Pval = 2.46e-08, adj BH Pval = 0.018
+
+![](slides/Que_n92_Mod2_manhatt.png)
+
+]
+
+
+---
+### Glycosylation &lt;br&gt; 
+
+### Critical in the development &amp; function of the nervous system
+.enlarge[
+* cell-cell recognition &lt;br&gt; &lt;br /&gt;
+* axon pathfinding &lt;br&gt; &lt;br /&gt;
+* synaptogenesis &lt;br&gt; &lt;br /&gt;
+* neurotransmission &lt;br&gt; &lt;br /&gt;
+
+]
+
+---
+background-image: url(slides/Mealer_glyco.jpg)
+background-position: 20% 75%
+background-size: 325px
+
+class: left top 
+
+### Dysregulated glycosylation in SCZ 
+
+.pull-right[.enlarge[
+GluA1,***GRIA1***: glutamate; cell-surface expression &lt;br&gt; &lt;br /&gt; 
+GluN2A,***GRIN2A***: glutamate; receptor localization &lt;br&gt; &lt;br /&gt;
+CaV1.2,***CACNA1C***: calcium;cell-surface expression &lt;br&gt; &lt;br /&gt;
+DR2,***DRD2***: dopamine;cell-surface expression
+]
+]
+
+.pull-right[.footnote[Mealer _et al_, Molecular Psychiatry, 2020]]
+
+---
+
+### GLT8D1 has 15 transcripts &lt;br&gt; 
+**6+ variants associated with SCZ and BPD (ensembl.org)**
+
+.enlarge[
+* Stahl EA, _et al.,_ Nature Genetics, 2019 &lt;br&gt; &lt;br /&gt;
+* Pardiñas, _et al._, Nature Genetics, 2018 &lt;br&gt; &lt;br /&gt;
+* Li, _et al._, Nature Genetics, 2017 &lt;br&gt; &lt;br /&gt;
+* SCZ Working Group of the PGC, Nature, 2014 &lt;br&gt; &lt;br /&gt;
+* Ripke, _et al._, Nature Genetics, 2013 &lt;br&gt; &lt;br /&gt;
+* BPD Working Group of PGC, Nature Genetics, 2011
+]
+
+---
+class:top left
+### GLT8D1 variants identified with MOSTest
+
+**2 variants associated with brain morphology and cortical surface area**
+
+![MOSTest](slides/MOSTest.png)
+
+---
+class:top left
+### Differentially Methylated Regions (DMRs) &lt;br/&gt; 
+
+* Regions with statistically significant methylation status
+
+![](slides/DMRs_Que_n84.png) &lt;br&gt; &lt;br /&gt;
+
+.enlarge[For lipid enthusiasts! APOB: Apolipoprotein B - ligand for LDL receptor]
+
+---
+class:top left
+### Future tasks
+
+.enlarge[
+* For larger sample size &amp; power: &lt;br&gt; continue analyses of AP monotherapy and adjust for polypharmacy &lt;br&gt;&lt;br&gt; 
+* Analyze samples with serum values &gt; 0,  &lt;br&gt; **Solely on AP** (n=330) versus **Medication-free** samples (n = 131) &lt;br&gt;&lt;br&gt;
+* Compare CpGs/DMRs from Quetiapine with CPGs from published lipid EWASs  &lt;br&gt;&lt;br&gt;
+* Ask Anja for gene expression data for GLT8D1 from TOP samples &amp;#x1F600;
+]
+
+---
+class:top left
+background-image: url(slides/Myrkdalen_group.png)
+background-position: 10% 45%
+background-size: 500px
+
+
+# Acknowledgements &lt;br&gt;
+.pull-right[
+**Supervisor Stéphanie**&lt;br&gt;&lt;br&gt;
+**Co-Supervisor Anne-Kristin**&lt;br&gt;&lt;br&gt;
+**Colleagues in The Martens Group**&lt;br&gt;&lt;br&gt;
+**Dept. of Clinical Science II** &lt;br&gt;&lt;br&gt;
+**NORMENT** &lt;br&gt;&lt;br&gt;&lt;br/ &gt;
+
+&amp;#x1F490; **En spesiell takk til Styret i Dr Einar Martens Fond!** &lt;br&gt;&lt;br&gt;
+
+
+]
+
+
+---
+
+
+
+
+
+
+
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"slideNumberFormat": "%current%",
+"highlightStyle": "github",
+"highlightLines": true,
+"ratio": "16:9",
+"countIncrementalSlides": true
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
