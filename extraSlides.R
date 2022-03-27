@@ -44,3 +44,13 @@ width="150px"
 .green { 
   color: "#70AC00"
   
+  
+  ----
+    
+    class:top left
+  ### Dysregulated glycosylation in SCZ 
+  Dysregulation of glycan synthesis pathways show differential expression in brains of individuals with SCZ - may be due to genetic predisposition, environmental perturbations, or medication use
+  
+  .pull.left[.footnote[Williams, _et al.,_ Mol. Psychiatry, 2020]]
+  .pull-right[.footnote[Mealer, _et al.,_ Mol. Psychiatry 2020]]
+  
