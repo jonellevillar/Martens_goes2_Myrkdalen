@@ -143,13 +143,12 @@ class: top left
 
 ###**EWAS findings for antipsychotics** [1] <br> <br />
 
-.footnote[[1] SCZ Working Group of PGC, Nature, 2014]
+.footnote[Burghart, xxx, 2021]
 .enlarge[
 
 * Drug response-related DNAm remains poorly understood <br> <br />
 * Variety of methods, tissues assayed, study designs, sample sizes <br> <br />
-*     Candidate genes <br> <br />
-*      Genome-wide <br> <br />
+* Lack of consistency in reporting medication in Candidate genes & Genome-wide studies <br> <br />
 * Integration of genomic data and genome-wide DNAm data may be more effective     
   ]
   ]
