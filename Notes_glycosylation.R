@@ -36,6 +36,6 @@ The glutamate, dopamine and calcium genes listed have varying numbers of glycosy
 THese five genes are directly involved in glycan synthesis and is based on the original 108 reported loci from 2014. 
 
 
-Multiple neurotransmitter signalling genes
+
 
 ### What does the literature show?
