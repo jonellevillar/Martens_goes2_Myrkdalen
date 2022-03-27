@@ -30,3 +30,17 @@ width="150px"
   
  This works 
   ![](slides/Hiemke_img2.jpg)
+![](slides/Hiemke_img.jpeg)
+
+.red { 
+  color: "#BE17C2";
+}
+.peach { 
+  color: "#EC7E00";
+}
+.mustard {
+  color: "#FBBF31";
+}
+.green { 
+  color: "#70AC00"
+  
