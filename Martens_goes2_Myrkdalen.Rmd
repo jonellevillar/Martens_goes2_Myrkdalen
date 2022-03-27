@@ -129,7 +129,7 @@ background-size: 700px
      - Antipsychotics (AP) alleviate or reduce symptoms <br> 
      - Long-term use associated with side effects <br> <br />
 * Biomarkers:
-     - Requires knowledge about pathophysiology & mechanisms of drug action
+     - Knowledge about pathophysiology & mechanisms of drug action incomplete
        
     ] 
 
@@ -190,14 +190,14 @@ background-size: 800px
 
 ---
 
-## Hypothesize: 
+## Aims: 
 
-.enlarge[We hypothesize that AP medication is associated with differential DNA methylation in psychosis. We aim to identify:
+.enlarge[Neuropsychiatric drugs have slightly different mechanisms of action. <br> <br/> We aim to identify differential DNA methylation associated with AP:
 
-* Common effects for antipsychotic polytherapy (n = 779) 
+* Common effects for AP polytherapy (n = 779) 
   
 
-* Specific effects for antipsychotic monotherapy (n = 433)
+* Specific effects for AP monotherapy (n = 433)
  - Aripiprazole (n = 62)
  - Olanzapine   (n = 192)
  - Quetiapine   (n = 122)  
@@ -307,7 +307,7 @@ DR2,***DRD2***: dopamine;cell-surface expression
 
 ---
 
-### Phenotyes associated with GLT8D1 <br> 
+### GLT8D1 has 15 transcripts <br> 
 **6+ variants associated with SCZ and BPD (ensembl.org)**
 
 .enlarge[
@@ -344,7 +344,7 @@ class:top left
 .enlarge[
 * For larger sample size & power: <br> continue analyses of AP monotherapy and adjust for polypharmacy <br><br> 
 * Analyze samples with serum values > 0,  <br> **Solely on AP** (n=330) versus **Medication-free** samples (n = 131) <br><br>
-* Compare CpGs/DMRs from Quetiapine with CPGs from published lipid EWAS  <br><br>
+* Compare CpGs/DMRs from Quetiapine with CPGs from published lipid EWASs  <br><br>
 * Ask Anja for gene expression data for GLT8D1 from TOP samples &#x1F600;
 ]
 
