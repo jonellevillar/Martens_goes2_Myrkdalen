@@ -215,17 +215,25 @@ background-size: 800px
    - Missing values &#x1F641; <br> <br />
    - Model design ]
    
+
+
+
 ---
-## Study/model design 
+## Study/model design <br> 
 
 .enlarge[
 Approaches to consider: <br>
 
-   - Evaluate serum values (van Dongen) <br> <br />
-   - Evaluate samples as one phenotype without correction for eCells (Greally & Lappalainen)
+   - Evaluate EWAS serum AP values  <br> <br />
+   - Evaluate samples as one phenotype without correction for eCells 
    ]
 
-add photos of article titles
+<img src="slides/Gupta.png" width="45%" align="left" />
+
+<img src="slides/Tuuli.png" width="50%" align="right" />
+
+
+
 
 ---
 
