@@ -122,13 +122,14 @@ background-size: 700px
 ## Background - Psychosis
 .enlarge[
 * Symptoms:
-     - Hallucinations and delusions <br> 
+     - Hallucinations, delusions, loss of contact with reality <br> 
+     - **Loss of insight** into their condition <br> 
      - May manifest at different stages for SCZ, BPD, MDD <br> <br />
 * Treatment:
      - Antipsychotics (AP) alleviate or reduce symptoms <br> 
      - Long-term use associated with side effects <br> <br />
 * Biomarkers:
-     - Lack of knowledge about pathophysiology and mechanisms of drug action
+     - Requires knowledge about pathophysiology & mechanisms of drug action
        
     ] 
 
@@ -148,9 +149,9 @@ background-size: 700px
 ---
 class: top left 
 
-###**EWAS findings for antipsychotics** [1] <br> <br />
+###**EWAS findings for antipsychotics** <br> <br />
 
-.footnote[Burghart, xxx, 2021]
+.footnote[Burghardt ___et.al___, Pharmacotherapy, 2020]
 .enlarge[
 
 * Drug response-related DNAm remains poorly understood <br> <br />
@@ -158,7 +159,7 @@ class: top left
 * Lack of consistency in reporting medication in Candidate genes & Genome-wide studies <br> <br />
 * Integration of genomic data and genome-wide DNAm data may be more effective     
   ]
-  ]
+  
 
 ---
 
