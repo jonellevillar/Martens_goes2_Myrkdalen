@@ -53,4 +53,4 @@ width="150px"
   
   .pull.left[.footnote[Williams, _et al.,_ Mol. Psychiatry, 2020]]
   .pull-right[.footnote[Mealer, _et al.,_ Mol. Psychiatry 2020]]
-  
+  .pull.left[.footnote[van der Meer, _et al.,_ Nature Communications, 2020]]
