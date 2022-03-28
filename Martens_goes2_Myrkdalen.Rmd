@@ -122,12 +122,12 @@ background-size: 700px
 ## Background - Psychosis
 .enlarge[
 * Symptoms:
-     - Hallucinations, delusions, loss of contact with reality <br> 
+     - Hallucinations, delusions, altered sensory perception <br> 
      - **Loss of insight** into their condition <br> 
      - May manifest at different stages for SCZ, BPD, MDD <br> <br />
 * Treatment:
      - Antipsychotics (AP) alleviate or reduce symptoms <br> 
-     - Long-term use associated with side effects <br> <br />
+     - Long-term use associated with distressing side effects <br> <br />
 * Biomarkers:
      - Knowledge about pathophysiology & mechanisms of drug action incomplete
        
@@ -151,14 +151,14 @@ class: top left
 
 ###**EWAS findings for antipsychotics** <br> <br />
 
-.footnote[Burghardt ___et.al___, Pharmacotherapy, 2020; Zhang & Malhotra, Current Psychiatry Reports, 2018]
+.footnote[Burghardt _et.al_, Pharmacotherapy, 2020; Zhang & Malhotra, Current Psychiatry Reports, 2018]
 .enlarge[
 
 *  _DRD2_, _DRD3_, _HTR2A_, _SLC6A4_, _COMT_ <br> <br />
-* Interpretability of drug response-related DNAm <br> <br />
+* Issue with interpretability of drug response-related DNAm for other findings <br> <br />
 * Variety of methods, tissues assayed, study designs, sample sizes <br> <br />
-* Interpretability - lack of consistency in reporting medication <br> <br />
-* Integration of genomic data and genome-wide DNAm data may be more effective     
+* Lack of consistency in reporting medication <br> <br />
+* Integration of genomic data & genome-wide DNAm data may be more effective     
   ]
   
 
@@ -238,12 +238,12 @@ Approaches to consider: <br>
 
 class:top left
 
-### Models selected for Quetiapine  
+### Models selected for Quetiapine  <br><br>
 * .enlarge[Serum values > 0, n = 92] <br><br> <br>
 
-.enlarge[**Mod1**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore] <br> <br> <br />
+.enlarge[**Mod1**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + <br> <br> Mono + Neu + NK + CD4T + CD8T + Bcells] <br> <br> <br />
 
-.enlarge[**Mod2**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + <br> <br /> Mono + Neu + NK + CD4T + CD8T + Bcells]
+.enlarge[**Mod2**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore ]
 
 ---
 
@@ -262,7 +262,7 @@ class: top left
 ### Manhatten plots comparing the two models 
 
 
-.pull-left[Model 1: Pval = 2.92e-08, adj BH Pval = 0.017
+.pull-left[Model 1: Pval = 2.25e-08, adj BH Pval = 0.017
 
 ![](slides/Que_n92_Mod1_manhatt.png)
 
@@ -352,8 +352,8 @@ class:top left
 ---
 class:top left
 background-image: url(slides/Myrkdalen_group.png)
-background-position: 10% 45%
-background-size: 500px
+background-position: 10% 55%
+background-size: 550px
 
 
 # Acknowledgements <br>
