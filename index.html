@@ -3,7 +3,7 @@
   <head>
     <title>Teasing out antipsychotic medication effects on DNA methylation</title>
     <meta charset="utf-8" />
-    <meta name="author" content="Jonelle" />
+    <meta name="author" content="Jonelle Villar - PhD Candidate" />
     <script src="index_files/header-attrs/header-attrs.js"></script>
     <link href="index_files/tile-view/tile-view.css" rel="stylesheet" />
     <script src="index_files/tile-view/tile-view.js"></script>
@@ -17,7 +17,7 @@ class: center, middle, inverse, title-slide
 
 # Teasing out antipsychotic medication effects on DNA methylation
 ## Martens goes 2 Myrkdalen! <br/> 🏔 🚡 ⛷
-### Jonelle
+### Jonelle Villar - PhD Candidate
 ### March 28-29, 2022
 
 ---
@@ -100,12 +100,12 @@ background-size: 700px
 ## Background - Psychosis
 .enlarge[
 * Symptoms:
-     - Hallucinations, delusions, loss of contact with reality &lt;br&gt; 
+     - Hallucinations, delusions, altered sensory perception &lt;br&gt; 
      - **Loss of insight** into their condition &lt;br&gt; 
      - May manifest at different stages for SCZ, BPD, MDD &lt;br&gt; &lt;br /&gt;
 * Treatment:
      - Antipsychotics (AP) alleviate or reduce symptoms &lt;br&gt; 
-     - Long-term use associated with side effects &lt;br&gt; &lt;br /&gt;
+     - Long-term use associated with distressing side effects &lt;br&gt; &lt;br /&gt;
 * Biomarkers:
      - Knowledge about pathophysiology &amp; mechanisms of drug action incomplete
        
@@ -129,13 +129,14 @@ class: top left
 
 ###**EWAS findings for antipsychotics** &lt;br&gt; &lt;br /&gt;
 
-.footnote[Burghardt ___et.al___, Pharmacotherapy, 2020]
+.footnote[Burghardt _et.al_, Pharmacotherapy, 2020; Zhang &amp; Malhotra, Current Psychiatry Reports, 2018]
 .enlarge[
 
-* Drug response-related DNAm remains poorly understood &lt;br&gt; &lt;br /&gt;
+*  _DRD2_, _DRD3_, _HTR2A_, _SLC6A4_, _COMT_ &lt;br&gt; &lt;br /&gt;
+* Issue with interpretability of drug response-related DNAm for other findings &lt;br&gt; &lt;br /&gt;
 * Variety of methods, tissues assayed, study designs, sample sizes &lt;br&gt; &lt;br /&gt;
-* Lack of consistency in reporting medication in Candidate genes &amp; Genome-wide studies &lt;br&gt; &lt;br /&gt;
-* Integration of genomic data and genome-wide DNAm data may be more effective     
+* Lack of consistency in reporting medication &lt;br&gt; &lt;br /&gt;
+* Integration of genomic data &amp; genome-wide DNAm data may be more effective     
   ]
   
 
@@ -215,12 +216,12 @@ Approaches to consider: &lt;br&gt;
 
 class:top left
 
-### Models selected for Quetiapine  
+### Models selected for Quetiapine  &lt;br&gt;&lt;br&gt;
 * .enlarge[Serum values &gt; 0, n = 92] &lt;br&gt;&lt;br&gt; &lt;br&gt;
 
-.enlarge[**Mod1**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore] &lt;br&gt; &lt;br&gt; &lt;br /&gt;
+.enlarge[**Mod1**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + &lt;br&gt; &lt;br&gt; Mono + Neu + NK + CD4T + CD8T + Bcells] &lt;br&gt; &lt;br&gt; &lt;br /&gt;
 
-.enlarge[**Mod2**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore + &lt;br&gt; &lt;br /&gt; Mono + Neu + NK + CD4T + CD8T + Bcells]
+.enlarge[**Mod2**: DNAm ~ Serum1 + Serum2 + Serum_Lithium + Age + Sex + SmokingScore ]
 
 ---
 
@@ -239,7 +240,7 @@ class: top left
 ### Manhatten plots comparing the two models 
 
 
-.pull-left[Model 1: Pval = 2.92e-08, adj BH Pval = 0.017
+.pull-left[Model 1: Pval = 2.25e-08, adj BH Pval = 0.017
 
 ![](slides/Que_n92_Mod1_manhatt.png)
 
@@ -329,8 +330,8 @@ class:top left
 ---
 class:top left
 background-image: url(slides/Myrkdalen_group.png)
-background-position: 10% 45%
-background-size: 500px
+background-position: 10% 55%
+background-size: 550px
 
 
 # Acknowledgements &lt;br&gt;
